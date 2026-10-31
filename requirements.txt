@@ -2,6 +2,7 @@ pandas>=3.0
 numpy>=2.0
 statsmodels>=0.14
 lightgbm>=4.5
+scikit-learn>=1.5
 pyarrow>=20
 requests>=2.32
 matplotlib>=3.10
