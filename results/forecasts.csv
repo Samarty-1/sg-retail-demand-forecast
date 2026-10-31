@@ -1,0 +1,1057 @@
+series,model,month,h,forecast,low_80,high_80
+Food & beverage: Cafes,seasonal_naive,2026-09-01,1,99.986,92.435,114.08
+Food & beverage: Cafes,seasonal_naive,2026-10-01,2,104.589,96.732,119.405
+Food & beverage: Cafes,seasonal_naive,2026-11-01,3,101.503,93.894,115.816
+Food & beverage: Cafes,seasonal_naive,2026-12-01,4,102.759,95.069,117.352
+Food & beverage: Cafes,seasonal_naive,2027-01-01,5,99.176,91.748,113.331
+Food & beverage: Cafes,seasonal_naive,2027-02-01,6,88.273,81.642,100.879
+Food & beverage: Cafes,seasonal_naive,2027-03-01,7,96.36,89.114,110.131
+Food & beverage: Cafes,seasonal_naive,2027-04-01,8,95.69,88.517,109.453
+Food & beverage: Cafes,seasonal_naive,2027-05-01,9,103.017,95.293,117.877
+Food & beverage: Cafes,seasonal_naive,2027-06-01,10,95.441,88.278,109.236
+Food & beverage: Cafes,seasonal_naive,2027-07-01,11,102.338,94.671,117.192
+Food & beverage: Cafes,seasonal_naive,2027-08-01,12,103.737,95.971,118.898
+Food & beverage: Cafes,naive_plus_growth,2026-09-01,1,100.294,90.686,109.068
+Food & beverage: Cafes,naive_plus_growth,2026-10-01,2,104.911,94.22,114.625
+Food & beverage: Cafes,naive_plus_growth,2026-11-01,3,101.815,91.172,111.599
+Food & beverage: Cafes,naive_plus_growth,2026-12-01,4,103.075,91.981,113.287
+Food & beverage: Cafes,naive_plus_growth,2027-01-01,5,99.481,88.41,109.644
+Food & beverage: Cafes,naive_plus_growth,2027-02-01,6,88.545,78.344,98.016
+Food & beverage: Cafes,naive_plus_growth,2027-03-01,7,96.657,85.004,107.356
+Food & beverage: Cafes,naive_plus_growth,2027-04-01,8,95.985,84.022,106.951
+Food & beverage: Cafes,naive_plus_growth,2027-05-01,9,103.334,89.782,115.765
+Food & beverage: Cafes,naive_plus_growth,2027-06-01,10,95.735,82.843,108.02
+Food & beverage: Cafes,naive_plus_growth,2027-07-01,11,102.653,88.55,116.493
+Food & beverage: Cafes,naive_plus_growth,2027-08-01,12,104.056,89.52,119.077
+Food & beverage: Cafes,ets,2026-09-01,1,99.286,92.663,106.835
+Food & beverage: Cafes,ets,2026-10-01,2,102.333,94.243,111.841
+Food & beverage: Cafes,ets,2026-11-01,3,101.752,93.425,111.839
+Food & beverage: Cafes,ets,2026-12-01,4,107.296,98.109,119.057
+Food & beverage: Cafes,ets,2027-01-01,5,102.415,93.859,114.565
+Food & beverage: Cafes,ets,2027-02-01,6,92.772,84.912,104.413
+Food & beverage: Cafes,ets,2027-03-01,7,102.798,93.649,116.204
+Food & beverage: Cafes,ets,2027-04-01,8,96.43,87.658,110.073
+Food & beverage: Cafes,ets,2027-05-01,9,100.199,91.013,113.834
+Food & beverage: Cafes,ets,2027-06-01,10,98.706,89.861,112.904
+Food & beverage: Cafes,ets,2027-07-01,11,107.443,98.285,123.034
+Food & beverage: Cafes,ets,2027-08-01,12,107.37,98.411,122.904
+Food & beverage: Cafes,lightgbm,2026-09-01,1,97.495,90.951,104.125
+Food & beverage: Cafes,lightgbm,2026-10-01,2,102.057,94.61,109.953
+Food & beverage: Cafes,lightgbm,2026-11-01,3,99.378,91.828,106.884
+Food & beverage: Cafes,lightgbm,2026-12-01,4,101.522,93.395,110.136
+Food & beverage: Cafes,lightgbm,2027-01-01,5,101.835,93.596,110.715
+Food & beverage: Cafes,lightgbm,2027-02-01,6,87.648,80.382,95.163
+Food & beverage: Cafes,lightgbm,2027-03-01,7,96.967,88.149,105.544
+Food & beverage: Cafes,lightgbm,2027-04-01,8,96.65,87.417,105.251
+Food & beverage: Cafes,lightgbm,2027-05-01,9,104.431,94.115,114.032
+Food & beverage: Cafes,lightgbm,2027-06-01,10,97.42,87.634,106.953
+Food & beverage: Cafes,lightgbm,2027-07-01,11,104.655,94.247,115.163
+Food & beverage: Cafes,lightgbm,2027-08-01,12,106.255,95.642,116.973
+Food & beverage: Fast Food Outlets,seasonal_naive,2026-09-01,1,98.895,91.427,112.835
+Food & beverage: Fast Food Outlets,seasonal_naive,2026-10-01,2,104.655,96.793,119.481
+Food & beverage: Fast Food Outlets,seasonal_naive,2026-11-01,3,101.834,94.201,116.194
+Food & beverage: Fast Food Outlets,seasonal_naive,2026-12-01,4,101.864,94.241,116.33
+Food & beverage: Fast Food Outlets,seasonal_naive,2027-01-01,5,102.455,94.782,117.078
+Food & beverage: Fast Food Outlets,seasonal_naive,2027-02-01,6,92.454,85.508,105.657
+Food & beverage: Fast Food Outlets,seasonal_naive,2027-03-01,7,100.033,92.511,114.329
+Food & beverage: Fast Food Outlets,seasonal_naive,2027-04-01,8,100.932,93.366,115.449
+Food & beverage: Fast Food Outlets,seasonal_naive,2027-05-01,9,104.753,96.899,119.864
+Food & beverage: Fast Food Outlets,seasonal_naive,2027-06-01,10,98.1,90.737,112.279
+Food & beverage: Fast Food Outlets,seasonal_naive,2027-07-01,11,107.999,99.908,123.674
+Food & beverage: Fast Food Outlets,seasonal_naive,2027-08-01,12,113.669,105.16,130.282
+Food & beverage: Fast Food Outlets,naive_plus_growth,2026-09-01,1,102.229,92.436,111.172
+Food & beverage: Fast Food Outlets,naive_plus_growth,2026-10-01,2,108.183,97.158,118.2
+Food & beverage: Fast Food Outlets,naive_plus_growth,2026-11-01,3,105.267,94.262,115.382
+Food & beverage: Fast Food Outlets,naive_plus_growth,2026-12-01,4,105.298,93.964,115.73
+Food & beverage: Fast Food Outlets,naive_plus_growth,2027-01-01,5,105.909,94.123,116.728
+Food & beverage: Fast Food Outlets,naive_plus_growth,2027-02-01,6,95.571,84.56,105.794
+Food & beverage: Fast Food Outlets,naive_plus_growth,2027-03-01,7,103.405,90.939,114.851
+Food & beverage: Fast Food Outlets,naive_plus_growth,2027-04-01,8,104.334,91.331,116.255
+Food & beverage: Fast Food Outlets,naive_plus_growth,2027-05-01,9,108.284,94.083,121.311
+Food & beverage: Fast Food Outlets,naive_plus_growth,2027-06-01,10,101.407,87.751,114.42
+Food & beverage: Fast Food Outlets,naive_plus_growth,2027-07-01,11,111.64,96.302,126.691
+Food & beverage: Fast Food Outlets,naive_plus_growth,2027-08-01,12,117.501,101.086,134.462
+Food & beverage: Fast Food Outlets,ets,2026-09-01,1,107.549,100.374,115.726
+Food & beverage: Fast Food Outlets,ets,2026-10-01,2,111.854,103.011,122.245
+Food & beverage: Fast Food Outlets,ets,2026-11-01,3,109.122,100.191,119.94
+Food & beverage: Fast Food Outlets,ets,2026-12-01,4,115.072,105.22,127.686
+Food & beverage: Fast Food Outlets,ets,2027-01-01,5,112.278,102.898,125.597
+Food & beverage: Fast Food Outlets,ets,2027-02-01,6,102.18,93.522,115.0
+Food & beverage: Fast Food Outlets,ets,2027-03-01,7,111.327,101.419,125.845
+Food & beverage: Fast Food Outlets,ets,2027-04-01,8,103.753,94.315,118.431
+Food & beverage: Fast Food Outlets,ets,2027-05-01,9,107.962,98.065,122.654
+Food & beverage: Fast Food Outlets,ets,2027-06-01,10,107.824,98.162,123.333
+Food & beverage: Fast Food Outlets,ets,2027-07-01,11,114.912,105.118,131.587
+Food & beverage: Fast Food Outlets,ets,2027-08-01,12,117.247,107.463,134.209
+Food & beverage: Fast Food Outlets,lightgbm,2026-09-01,1,104.269,97.271,111.36
+Food & beverage: Fast Food Outlets,lightgbm,2026-10-01,2,110.333,102.282,118.869
+Food & beverage: Fast Food Outlets,lightgbm,2026-11-01,3,107.325,99.171,115.431
+Food & beverage: Fast Food Outlets,lightgbm,2026-12-01,4,107.309,98.719,116.415
+Food & beverage: Fast Food Outlets,lightgbm,2027-01-01,5,111.382,102.371,121.095
+Food & beverage: Fast Food Outlets,lightgbm,2027-02-01,6,93.456,85.709,101.469
+Food & beverage: Fast Food Outlets,lightgbm,2027-03-01,7,104.836,95.303,114.109
+Food & beverage: Fast Food Outlets,lightgbm,2027-04-01,8,105.644,95.552,115.045
+Food & beverage: Fast Food Outlets,lightgbm,2027-05-01,9,109.456,98.644,119.519
+Food & beverage: Fast Food Outlets,lightgbm,2027-06-01,10,102.41,92.122,112.431
+Food & beverage: Fast Food Outlets,lightgbm,2027-07-01,11,112.739,101.527,124.059
+Food & beverage: Fast Food Outlets,lightgbm,2027-08-01,12,118.375,106.551,130.316
+Food & beverage: Food Caterers,seasonal_naive,2026-09-01,1,101.317,93.666,115.598
+Food & beverage: Food Caterers,seasonal_naive,2026-10-01,2,106.065,98.097,121.09
+Food & beverage: Food Caterers,seasonal_naive,2026-11-01,3,106.68,98.683,121.723
+Food & beverage: Food Caterers,seasonal_naive,2026-12-01,4,106.543,98.57,121.674
+Food & beverage: Food Caterers,seasonal_naive,2027-01-01,5,104.996,97.132,119.982
+Food & beverage: Food Caterers,seasonal_naive,2027-02-01,6,115.659,106.97,132.176
+Food & beverage: Food Caterers,seasonal_naive,2027-03-01,7,99.64,92.147,113.88
+Food & beverage: Food Caterers,seasonal_naive,2027-04-01,8,95.865,88.679,109.654
+Food & beverage: Food Caterers,seasonal_naive,2027-05-01,9,96.411,89.182,110.318
+Food & beverage: Food Caterers,seasonal_naive,2027-06-01,10,95.744,88.558,109.582
+Food & beverage: Food Caterers,seasonal_naive,2027-07-01,11,104.795,96.944,120.005
+Food & beverage: Food Caterers,seasonal_naive,2027-08-01,12,105.824,97.902,121.29
+Food & beverage: Food Caterers,naive_plus_growth,2026-09-01,1,108.753,98.335,118.267
+Food & beverage: Food Caterers,naive_plus_growth,2026-10-01,2,113.849,102.247,124.391
+Food & beverage: Food Caterers,naive_plus_growth,2026-11-01,3,114.51,102.539,125.513
+Food & beverage: Food Caterers,naive_plus_growth,2026-12-01,4,114.362,102.053,125.692
+Food & beverage: Food Caterers,naive_plus_growth,2027-01-01,5,112.702,100.16,124.215
+Food & beverage: Food Caterers,naive_plus_growth,2027-02-01,6,124.148,109.845,137.428
+Food & beverage: Food Caterers,naive_plus_growth,2027-03-01,7,106.953,94.059,118.792
+Food & beverage: Food Caterers,naive_plus_growth,2027-04-01,8,102.901,90.076,114.658
+Food & beverage: Food Caterers,naive_plus_growth,2027-05-01,9,103.487,89.915,115.936
+Food & beverage: Food Caterers,naive_plus_growth,2027-06-01,10,102.771,88.931,115.959
+Food & beverage: Food Caterers,naive_plus_growth,2027-07-01,11,112.486,97.032,127.652
+Food & beverage: Food Caterers,naive_plus_growth,2027-08-01,12,113.591,97.722,129.988
+Food & beverage: Food Caterers,ets,2026-09-01,1,96.677,90.227,104.027
+Food & beverage: Food Caterers,ets,2026-10-01,2,98.911,91.092,108.1
+Food & beverage: Food Caterers,ets,2026-11-01,3,104.239,95.709,114.573
+Food & beverage: Food Caterers,ets,2026-12-01,4,109.504,100.128,121.507
+Food & beverage: Food Caterers,ets,2027-01-01,5,109.388,100.25,122.365
+Food & beverage: Food Caterers,ets,2027-02-01,6,107.14,98.062,120.583
+Food & beverage: Food Caterers,ets,2027-03-01,7,94.566,86.149,106.898
+Food & beverage: Food Caterers,ets,2027-04-01,8,90.228,82.02,102.993
+Food & beverage: Food Caterers,ets,2027-05-01,9,97.76,88.798,111.063
+Food & beverage: Food Caterers,ets,2027-06-01,10,97.504,88.766,111.528
+Food & beverage: Food Caterers,ets,2027-07-01,11,107.218,98.079,122.776
+Food & beverage: Food Caterers,ets,2027-08-01,12,105.523,96.717,120.789
+Food & beverage: Food Caterers,lightgbm,2026-09-01,1,103.35,96.413,110.377
+Food & beverage: Food Caterers,lightgbm,2026-10-01,2,108.183,100.289,116.553
+Food & beverage: Food Caterers,lightgbm,2026-11-01,3,108.749,100.487,116.963
+Food & beverage: Food Caterers,lightgbm,2026-12-01,4,108.615,99.92,117.831
+Food & beverage: Food Caterers,lightgbm,2027-01-01,5,113.687,104.49,123.601
+Food & beverage: Food Caterers,lightgbm,2027-02-01,6,111.547,102.299,121.111
+Food & beverage: Food Caterers,lightgbm,2027-03-01,7,101.566,92.33,110.55
+Food & beverage: Food Caterers,lightgbm,2027-04-01,8,97.557,88.237,106.238
+Food & beverage: Food Caterers,lightgbm,2027-05-01,9,97.87,88.202,106.867
+Food & beverage: Food Caterers,lightgbm,2027-06-01,10,97.17,87.408,106.678
+Food & beverage: Food Caterers,lightgbm,2027-07-01,11,106.351,95.774,117.03
+Food & beverage: Food Caterers,lightgbm,2027-08-01,12,107.359,96.635,118.189
+Food & beverage: Food Courts & Other Eating Places,seasonal_naive,2026-09-01,1,97.676,90.3,111.444
+Food & beverage: Food Courts & Other Eating Places,seasonal_naive,2026-10-01,2,100.262,92.73,114.465
+Food & beverage: Food Courts & Other Eating Places,seasonal_naive,2026-11-01,3,97.601,90.285,111.364
+Food & beverage: Food Courts & Other Eating Places,seasonal_naive,2026-12-01,4,99.599,92.145,113.744
+Food & beverage: Food Courts & Other Eating Places,seasonal_naive,2027-01-01,5,98.391,91.022,112.434
+Food & beverage: Food Courts & Other Eating Places,seasonal_naive,2027-02-01,6,86.582,80.078,98.946
+Food & beverage: Food Courts & Other Eating Places,seasonal_naive,2027-03-01,7,96.224,88.988,109.975
+Food & beverage: Food Courts & Other Eating Places,seasonal_naive,2027-04-01,8,96.916,89.651,110.856
+Food & beverage: Food Courts & Other Eating Places,seasonal_naive,2027-05-01,9,100.417,92.888,114.902
+Food & beverage: Food Courts & Other Eating Places,seasonal_naive,2027-06-01,10,94.803,87.688,108.505
+Food & beverage: Food Courts & Other Eating Places,seasonal_naive,2027-07-01,11,98.548,91.165,112.851
+Food & beverage: Food Courts & Other Eating Places,seasonal_naive,2027-08-01,12,100.999,93.438,115.76
+Food & beverage: Food Courts & Other Eating Places,naive_plus_growth,2026-09-01,1,94.574,85.514,102.848
+Food & beverage: Food Courts & Other Eating Places,naive_plus_growth,2026-10-01,2,97.078,87.185,106.067
+Food & beverage: Food Courts & Other Eating Places,naive_plus_growth,2026-11-01,3,94.501,84.622,103.582
+Food & beverage: Food Courts & Other Eating Places,naive_plus_growth,2026-12-01,4,96.436,86.056,105.989
+Food & beverage: Food Courts & Other Eating Places,naive_plus_growth,2027-01-01,5,95.266,84.665,104.998
+Food & beverage: Food Courts & Other Eating Places,naive_plus_growth,2027-02-01,6,83.832,74.174,92.8
+Food & beverage: Food Courts & Other Eating Places,naive_plus_growth,2027-03-01,7,93.168,81.936,103.481
+Food & beverage: Food Courts & Other Eating Places,naive_plus_growth,2027-04-01,8,93.838,82.143,104.56
+Food & beverage: Food Courts & Other Eating Places,naive_plus_growth,2027-05-01,9,97.228,84.477,108.924
+Food & beverage: Food Courts & Other Eating Places,naive_plus_growth,2027-06-01,10,91.792,79.431,103.571
+Food & beverage: Food Courts & Other Eating Places,naive_plus_growth,2027-07-01,11,95.418,82.309,108.283
+Food & beverage: Food Courts & Other Eating Places,naive_plus_growth,2027-08-01,12,97.791,84.13,111.908
+Food & beverage: Food Courts & Other Eating Places,ets,2026-09-01,1,98.03,91.49,105.483
+Food & beverage: Food Courts & Other Eating Places,ets,2026-10-01,2,99.948,92.047,109.234
+Food & beverage: Food Courts & Other Eating Places,ets,2026-11-01,3,97.617,89.629,107.295
+Food & beverage: Food Courts & Other Eating Places,ets,2026-12-01,4,100.545,91.936,111.566
+Food & beverage: Food Courts & Other Eating Places,ets,2027-01-01,5,98.732,90.484,110.445
+Food & beverage: Food Courts & Other Eating Places,ets,2027-02-01,6,90.023,82.396,101.318
+Food & beverage: Food Courts & Other Eating Places,ets,2027-03-01,7,100.829,91.855,113.978
+Food & beverage: Food Courts & Other Eating Places,ets,2027-04-01,8,93.252,84.769,106.445
+Food & beverage: Food Courts & Other Eating Places,ets,2027-05-01,9,92.625,84.134,105.23
+Food & beverage: Food Courts & Other Eating Places,ets,2027-06-01,10,91.433,83.24,104.585
+Food & beverage: Food Courts & Other Eating Places,ets,2027-07-01,11,99.148,90.697,113.536
+Food & beverage: Food Courts & Other Eating Places,ets,2027-08-01,12,100.971,92.545,115.578
+Food & beverage: Food Courts & Other Eating Places,lightgbm,2026-09-01,1,94.619,88.269,101.054
+Food & beverage: Food Courts & Other Eating Places,lightgbm,2026-10-01,2,97.203,90.11,104.723
+Food & beverage: Food Courts & Other Eating Places,lightgbm,2026-11-01,3,94.763,87.563,101.92
+Food & beverage: Food Courts & Other Eating Places,lightgbm,2026-12-01,4,96.911,89.153,105.134
+Food & beverage: Food Courts & Other Eating Places,lightgbm,2027-01-01,5,98.352,90.395,106.929
+Food & beverage: Food Courts & Other Eating Places,lightgbm,2027-02-01,6,85.711,78.605,93.06
+Food & beverage: Food Courts & Other Eating Places,lightgbm,2027-03-01,7,95.254,86.592,103.679
+Food & beverage: Food Courts & Other Eating Places,lightgbm,2027-04-01,8,96.311,87.111,104.882
+Food & beverage: Food Courts & Other Eating Places,lightgbm,2027-05-01,9,100.216,90.317,109.429
+Food & beverage: Food Courts & Other Eating Places,lightgbm,2027-06-01,10,95.165,85.605,104.477
+Food & beverage: Food Courts & Other Eating Places,lightgbm,2027-07-01,11,99.08,89.227,109.029
+Food & beverage: Food Courts & Other Eating Places,lightgbm,2027-08-01,12,101.545,91.402,111.788
+Food & beverage: Restaurants,seasonal_naive,2026-09-01,1,94.8,87.641,108.163
+Food & beverage: Restaurants,seasonal_naive,2026-10-01,2,104.072,96.253,118.815
+Food & beverage: Restaurants,seasonal_naive,2026-11-01,3,100.008,92.511,114.11
+Food & beverage: Restaurants,seasonal_naive,2026-12-01,4,103.632,95.877,118.349
+Food & beverage: Restaurants,seasonal_naive,2027-01-01,5,99.816,92.34,114.063
+Food & beverage: Restaurants,seasonal_naive,2027-02-01,6,108.685,100.52,124.206
+Food & beverage: Restaurants,seasonal_naive,2027-03-01,7,97.797,90.443,111.773
+Food & beverage: Restaurants,seasonal_naive,2027-04-01,8,92.942,85.975,106.31
+Food & beverage: Restaurants,seasonal_naive,2027-05-01,9,104.813,96.954,119.932
+Food & beverage: Restaurants,seasonal_naive,2027-06-01,10,92.057,85.148,105.363
+Food & beverage: Restaurants,seasonal_naive,2027-07-01,11,97.056,89.785,111.143
+Food & beverage: Restaurants,seasonal_naive,2027-08-01,12,103.201,95.476,118.284
+Food & beverage: Restaurants,naive_plus_growth,2026-09-01,1,94.053,85.043,102.281
+Food & beverage: Restaurants,naive_plus_growth,2026-10-01,2,103.252,92.73,112.813
+Food & beverage: Restaurants,naive_plus_growth,2026-11-01,3,99.22,88.848,108.755
+Food & beverage: Restaurants,naive_plus_growth,2026-12-01,4,102.816,91.749,113.001
+Food & beverage: Restaurants,naive_plus_growth,2027-01-01,5,99.03,88.009,109.146
+Food & beverage: Restaurants,naive_plus_growth,2027-02-01,6,107.829,95.406,119.363
+Food & beverage: Restaurants,naive_plus_growth,2027-03-01,7,97.027,85.329,107.767
+Food & beverage: Restaurants,naive_plus_growth,2027-04-01,8,92.21,80.717,102.745
+Food & beverage: Restaurants,naive_plus_growth,2027-05-01,9,103.987,90.35,116.497
+Food & beverage: Restaurants,naive_plus_growth,2027-06-01,10,91.332,79.033,103.052
+Food & beverage: Restaurants,naive_plus_growth,2027-07-01,11,96.291,83.062,109.274
+Food & beverage: Restaurants,naive_plus_growth,2027-08-01,12,102.388,88.084,117.168
+Food & beverage: Restaurants,ets,2026-09-01,1,102.513,95.674,110.307
+Food & beverage: Restaurants,ets,2026-10-01,2,103.482,95.301,113.096
+Food & beverage: Restaurants,ets,2026-11-01,3,103.018,94.587,113.231
+Food & beverage: Restaurants,ets,2026-12-01,4,119.073,108.878,132.125
+Food & beverage: Restaurants,ets,2027-01-01,5,112.225,102.85,125.538
+Food & beverage: Restaurants,ets,2027-02-01,6,108.82,99.6,122.474
+Food & beverage: Restaurants,ets,2027-03-01,7,100.636,91.679,113.76
+Food & beverage: Restaurants,ets,2027-04-01,8,90.241,82.032,103.009
+Food & beverage: Restaurants,ets,2027-05-01,9,95.644,86.876,108.66
+Food & beverage: Restaurants,ets,2027-06-01,10,89.531,81.508,102.409
+Food & beverage: Restaurants,ets,2027-07-01,11,99.817,91.309,114.302
+Food & beverage: Restaurants,ets,2027-08-01,12,103.09,94.488,118.005
+Food & beverage: Restaurants,lightgbm,2026-09-01,1,93.865,87.565,100.248
+Food & beverage: Restaurants,lightgbm,2026-10-01,2,103.037,95.518,111.008
+Food & beverage: Restaurants,lightgbm,2026-11-01,3,99.167,91.633,106.657
+Food & beverage: Restaurants,lightgbm,2026-12-01,4,102.772,94.546,111.493
+Food & beverage: Restaurants,lightgbm,2027-01-01,5,107.019,98.36,116.351
+Food & beverage: Restaurants,lightgbm,2027-02-01,6,101.89,93.443,110.626
+Food & beverage: Restaurants,lightgbm,2027-03-01,7,97.474,88.611,106.096
+Food & beverage: Restaurants,lightgbm,2027-04-01,8,92.443,83.612,100.669
+Food & beverage: Restaurants,lightgbm,2027-05-01,9,104.285,93.984,113.872
+Food & beverage: Restaurants,lightgbm,2027-06-01,10,91.685,82.474,100.656
+Food & beverage: Restaurants,lightgbm,2027-07-01,11,96.692,87.076,106.401
+Food & beverage: Restaurants,lightgbm,2027-08-01,12,102.84,92.568,113.214
+Food & beverage: Total,seasonal_naive,2026-09-01,1,97.038,89.71,110.716
+Food & beverage: Total,seasonal_naive,2026-10-01,2,103.519,95.742,118.184
+Food & beverage: Total,seasonal_naive,2026-11-01,3,100.471,92.94,114.639
+Food & beverage: Total,seasonal_naive,2026-12-01,4,102.753,95.063,117.346
+Food & beverage: Total,seasonal_naive,2027-01-01,5,100.216,92.71,114.52
+Food & beverage: Total,seasonal_naive,2027-02-01,6,100.747,93.178,115.134
+Food & beverage: Total,seasonal_naive,2027-03-01,7,97.703,90.356,111.666
+Food & beverage: Total,seasonal_naive,2027-04-01,8,95.2,88.064,108.893
+Food & beverage: Total,seasonal_naive,2027-05-01,9,102.773,95.067,117.598
+Food & beverage: Total,seasonal_naive,2027-06-01,10,93.987,86.933,107.572
+Food & beverage: Total,seasonal_naive,2027-07-01,11,99.785,92.309,114.268
+Food & beverage: Total,seasonal_naive,2027-08-01,12,104.048,96.259,119.255
+Food & beverage: Total,naive_plus_growth,2026-09-01,1,97.201,87.89,105.705
+Food & beverage: Total,naive_plus_growth,2026-10-01,2,103.693,93.126,113.295
+Food & beverage: Total,naive_plus_growth,2026-11-01,3,100.64,90.119,110.311
+Food & beverage: Total,naive_plus_growth,2026-12-01,4,102.926,91.848,113.123
+Food & beverage: Total,naive_plus_growth,2027-01-01,5,100.385,89.214,110.64
+Food & beverage: Total,naive_plus_growth,2027-02-01,6,100.917,89.29,111.712
+Food & beverage: Total,naive_plus_growth,2027-03-01,7,97.868,86.069,108.701
+Food & beverage: Total,naive_plus_growth,2027-04-01,8,95.36,83.475,106.256
+Food & beverage: Total,naive_plus_growth,2027-05-01,9,102.946,89.445,115.331
+Food & beverage: Total,naive_plus_growth,2027-06-01,10,94.145,81.467,106.226
+Food & beverage: Total,naive_plus_growth,2027-07-01,11,99.953,86.221,113.429
+Food & beverage: Total,naive_plus_growth,2027-08-01,12,104.223,89.663,119.268
+Food & beverage: Total,ets,2026-09-01,1,100.83,94.103,108.496
+Food & beverage: Total,ets,2026-10-01,2,102.907,94.772,112.467
+Food & beverage: Total,ets,2026-11-01,3,101.923,93.582,112.027
+Food & beverage: Total,ets,2026-12-01,4,110.697,101.219,122.831
+Food & beverage: Total,ets,2027-01-01,5,106.781,97.86,119.449
+Food & beverage: Total,ets,2027-02-01,6,100.568,92.047,113.186
+Food & beverage: Total,ets,2027-03-01,7,101.118,92.118,114.304
+Food & beverage: Total,ets,2027-04-01,8,93.151,84.677,106.329
+Food & beverage: Total,ets,2027-05-01,9,96.909,88.025,110.096
+Food & beverage: Total,ets,2027-06-01,10,93.956,85.536,107.47
+Food & beverage: Total,ets,2027-07-01,11,102.362,93.637,117.216
+Food & beverage: Total,ets,2027-08-01,12,104.495,95.775,119.612
+Food & beverage: Total,lightgbm,2026-09-01,1,96.495,90.019,103.057
+Food & beverage: Total,lightgbm,2026-10-01,2,102.931,95.42,110.895
+Food & beverage: Total,lightgbm,2026-11-01,3,100.052,92.451,107.609
+Food & beverage: Total,lightgbm,2026-12-01,4,102.182,94.003,110.853
+Food & beverage: Total,lightgbm,2027-01-01,5,105.475,96.942,114.673
+Food & beverage: Total,lightgbm,2027-02-01,6,97.588,89.498,105.955
+Food & beverage: Total,lightgbm,2027-03-01,7,97.75,88.861,106.396
+Food & beverage: Total,lightgbm,2027-04-01,8,95.109,86.023,103.573
+Food & beverage: Total,lightgbm,2027-05-01,9,102.772,92.621,112.22
+Food & beverage: Total,lightgbm,2027-06-01,10,94.128,84.672,103.338
+Food & beverage: Total,lightgbm,2027-07-01,11,99.928,89.991,109.962
+Food & beverage: Total,lightgbm,2027-08-01,12,104.198,93.79,114.709
+Retail: Computer & Telecommunications Equipment,seasonal_naive,2026-09-01,1,109.186,100.941,124.576
+Retail: Computer & Telecommunications Equipment,seasonal_naive,2026-10-01,2,118.755,109.833,135.578
+Retail: Computer & Telecommunications Equipment,seasonal_naive,2026-11-01,3,116.486,107.754,132.912
+Retail: Computer & Telecommunications Equipment,seasonal_naive,2026-12-01,4,138.033,127.703,157.636
+Retail: Computer & Telecommunications Equipment,seasonal_naive,2027-01-01,5,93.583,86.574,106.94
+Retail: Computer & Telecommunications Equipment,seasonal_naive,2027-02-01,6,87.374,80.81,99.852
+Retail: Computer & Telecommunications Equipment,seasonal_naive,2027-03-01,7,120.353,111.303,137.553
+Retail: Computer & Telecommunications Equipment,seasonal_naive,2027-04-01,8,96.994,89.723,110.945
+Retail: Computer & Telecommunications Equipment,seasonal_naive,2027-05-01,9,101.716,94.089,116.389
+Retail: Computer & Telecommunications Equipment,seasonal_naive,2027-06-01,10,94.499,87.407,108.158
+Retail: Computer & Telecommunications Equipment,seasonal_naive,2027-07-01,11,91.411,84.563,104.679
+Retail: Computer & Telecommunications Equipment,seasonal_naive,2027-08-01,12,93.99,86.954,107.727
+Retail: Computer & Telecommunications Equipment,naive_plus_growth,2026-09-01,1,117.847,106.558,128.157
+Retail: Computer & Telecommunications Equipment,naive_plus_growth,2026-10-01,2,128.175,115.113,140.044
+Retail: Computer & Telecommunications Equipment,naive_plus_growth,2026-11-01,3,125.726,112.583,137.808
+Retail: Computer & Telecommunications Equipment,naive_plus_growth,2026-12-01,4,148.983,132.947,163.742
+Retail: Computer & Telecommunications Equipment,naive_plus_growth,2027-01-01,5,101.007,89.766,111.325
+Retail: Computer & Telecommunications Equipment,naive_plus_growth,2027-02-01,6,94.305,83.44,104.393
+Retail: Computer & Telecommunications Equipment,naive_plus_growth,2027-03-01,7,129.9,114.239,144.279
+Retail: Computer & Telecommunications Equipment,naive_plus_growth,2027-04-01,8,104.688,91.64,116.649
+Retail: Computer & Telecommunications Equipment,naive_plus_growth,2027-05-01,9,109.785,95.387,122.992
+Retail: Computer & Telecommunications Equipment,naive_plus_growth,2027-06-01,10,101.995,88.26,115.084
+Retail: Computer & Telecommunications Equipment,naive_plus_growth,2027-07-01,11,98.662,85.107,111.964
+Retail: Computer & Telecommunications Equipment,naive_plus_growth,2027-08-01,12,101.446,87.274,116.09
+Retail: Computer & Telecommunications Equipment,ets,2026-09-01,1,124.958,116.622,134.459
+Retail: Computer & Telecommunications Equipment,ets,2026-10-01,2,132.988,122.475,145.344
+Retail: Computer & Telecommunications Equipment,ets,2026-11-01,3,143.507,131.763,157.734
+Retail: Computer & Telecommunications Equipment,ets,2026-12-01,4,153.61,140.458,170.448
+Retail: Computer & Telecommunications Equipment,ets,2027-01-01,5,106.919,97.986,119.602
+Retail: Computer & Telecommunications Equipment,ets,2027-02-01,6,93.167,85.273,104.856
+Retail: Computer & Telecommunications Equipment,ets,2027-03-01,7,119.235,108.623,134.784
+Retail: Computer & Telecommunications Equipment,ets,2027-04-01,8,100.528,91.383,114.751
+Retail: Computer & Telecommunications Equipment,ets,2027-05-01,9,98.635,89.593,112.057
+Retail: Computer & Telecommunications Equipment,ets,2027-06-01,10,99.949,90.992,114.325
+Retail: Computer & Telecommunications Equipment,ets,2027-07-01,11,100.511,91.944,115.096
+Retail: Computer & Telecommunications Equipment,ets,2027-08-01,12,100.547,92.157,115.094
+Retail: Computer & Telecommunications Equipment,lightgbm,2026-09-01,1,115.925,108.145,123.808
+Retail: Computer & Telecommunications Equipment,lightgbm,2026-10-01,2,126.049,116.852,135.802
+Retail: Computer & Telecommunications Equipment,lightgbm,2026-11-01,3,123.346,113.975,132.662
+Retail: Computer & Telecommunications Equipment,lightgbm,2026-12-01,4,145.227,133.602,157.55
+Retail: Computer & Telecommunications Equipment,lightgbm,2027-01-01,5,100.195,92.089,108.932
+Retail: Computer & Telecommunications Equipment,lightgbm,2027-02-01,6,90.689,83.171,98.465
+Retail: Computer & Telecommunications Equipment,lightgbm,2027-03-01,7,124.804,113.455,135.844
+Retail: Computer & Telecommunications Equipment,lightgbm,2027-04-01,8,100.078,90.518,108.984
+Retail: Computer & Telecommunications Equipment,lightgbm,2027-05-01,9,104.559,94.231,114.172
+Retail: Computer & Telecommunications Equipment,lightgbm,2027-06-01,10,96.562,86.861,106.01
+Retail: Computer & Telecommunications Equipment,lightgbm,2027-07-01,11,93.406,84.117,102.785
+Retail: Computer & Telecommunications Equipment,lightgbm,2027-08-01,12,95.555,86.011,105.194
+"Retail: Cosmetics, Toiletries & Medical Goods",seasonal_naive,2026-09-01,1,94.337,87.213,107.634
+"Retail: Cosmetics, Toiletries & Medical Goods",seasonal_naive,2026-10-01,2,102.298,94.613,116.79
+"Retail: Cosmetics, Toiletries & Medical Goods",seasonal_naive,2026-11-01,3,109.085,100.908,124.467
+"Retail: Cosmetics, Toiletries & Medical Goods",seasonal_naive,2026-12-01,4,113.732,105.221,129.884
+"Retail: Cosmetics, Toiletries & Medical Goods",seasonal_naive,2027-01-01,5,99.817,92.341,114.064
+"Retail: Cosmetics, Toiletries & Medical Goods",seasonal_naive,2027-02-01,6,102.737,95.019,117.408
+"Retail: Cosmetics, Toiletries & Medical Goods",seasonal_naive,2027-03-01,7,107.406,99.33,122.755
+"Retail: Cosmetics, Toiletries & Medical Goods",seasonal_naive,2027-04-01,8,97.325,90.03,111.324
+"Retail: Cosmetics, Toiletries & Medical Goods",seasonal_naive,2027-05-01,9,105.092,97.212,120.252
+"Retail: Cosmetics, Toiletries & Medical Goods",seasonal_naive,2027-06-01,10,104.38,96.546,119.467
+"Retail: Cosmetics, Toiletries & Medical Goods",seasonal_naive,2027-07-01,11,101.896,94.262,116.685
+"Retail: Cosmetics, Toiletries & Medical Goods",seasonal_naive,2027-08-01,12,112.802,104.358,129.288
+"Retail: Cosmetics, Toiletries & Medical Goods",naive_plus_growth,2026-09-01,1,99.682,90.133,108.402
+"Retail: Cosmetics, Toiletries & Medical Goods",naive_plus_growth,2026-10-01,2,108.094,97.078,118.103
+"Retail: Cosmetics, Toiletries & Medical Goods",naive_plus_growth,2026-11-01,3,115.265,103.215,126.341
+"Retail: Cosmetics, Toiletries & Medical Goods",naive_plus_growth,2026-12-01,4,120.175,107.24,132.081
+"Retail: Cosmetics, Toiletries & Medical Goods",naive_plus_growth,2027-01-01,5,105.472,93.735,116.247
+"Retail: Cosmetics, Toiletries & Medical Goods",naive_plus_growth,2027-02-01,6,108.558,96.051,120.17
+"Retail: Cosmetics, Toiletries & Medical Goods",naive_plus_growth,2027-03-01,7,113.491,99.809,126.054
+"Retail: Cosmetics, Toiletries & Medical Goods",naive_plus_growth,2027-04-01,8,102.839,90.022,114.589
+"Retail: Cosmetics, Toiletries & Medical Goods",naive_plus_growth,2027-05-01,9,111.046,96.482,124.405
+"Retail: Cosmetics, Toiletries & Medical Goods",naive_plus_growth,2027-06-01,10,110.294,95.441,124.447
+"Retail: Cosmetics, Toiletries & Medical Goods",naive_plus_growth,2027-07-01,11,107.669,92.876,122.185
+"Retail: Cosmetics, Toiletries & Medical Goods",naive_plus_growth,2027-08-01,12,119.193,102.542,136.399
+"Retail: Cosmetics, Toiletries & Medical Goods",ets,2026-09-01,1,110.788,103.397,119.211
+"Retail: Cosmetics, Toiletries & Medical Goods",ets,2026-10-01,2,110.223,101.509,120.463
+"Retail: Cosmetics, Toiletries & Medical Goods",ets,2026-11-01,3,116.582,107.041,128.139
+"Retail: Cosmetics, Toiletries & Medical Goods",ets,2026-12-01,4,136.538,124.848,151.505
+"Retail: Cosmetics, Toiletries & Medical Goods",ets,2027-01-01,5,121.272,111.141,135.659
+"Retail: Cosmetics, Toiletries & Medical Goods",ets,2027-02-01,6,105.77,96.809,119.041
+"Retail: Cosmetics, Toiletries & Medical Goods",ets,2027-03-01,7,115.534,105.251,130.601
+"Retail: Cosmetics, Toiletries & Medical Goods",ets,2027-04-01,8,100.858,91.683,115.127
+"Retail: Cosmetics, Toiletries & Medical Goods",ets,2027-05-01,9,106.556,96.788,121.057
+"Retail: Cosmetics, Toiletries & Medical Goods",ets,2027-06-01,10,108.696,98.955,124.33
+"Retail: Cosmetics, Toiletries & Medical Goods",ets,2027-07-01,11,110.452,101.037,126.479
+"Retail: Cosmetics, Toiletries & Medical Goods",ets,2027-08-01,12,112.802,103.389,129.121
+"Retail: Cosmetics, Toiletries & Medical Goods",lightgbm,2026-09-01,1,101.866,95.029,108.792
+"Retail: Cosmetics, Toiletries & Medical Goods",lightgbm,2026-10-01,2,110.43,102.373,118.974
+"Retail: Cosmetics, Toiletries & Medical Goods",lightgbm,2026-11-01,3,117.61,108.675,126.493
+"Retail: Cosmetics, Toiletries & Medical Goods",lightgbm,2026-12-01,4,122.238,112.453,132.61
+"Retail: Cosmetics, Toiletries & Medical Goods",lightgbm,2027-01-01,5,112.316,103.229,122.11
+"Retail: Cosmetics, Toiletries & Medical Goods",lightgbm,2027-02-01,6,103.128,94.579,111.97
+"Retail: Cosmetics, Toiletries & Medical Goods",lightgbm,2027-03-01,7,114.656,104.23,124.798
+"Retail: Cosmetics, Toiletries & Medical Goods",lightgbm,2027-04-01,8,103.662,93.759,112.886
+"Retail: Cosmetics, Toiletries & Medical Goods",lightgbm,2027-05-01,9,111.564,100.543,121.82
+"Retail: Cosmetics, Toiletries & Medical Goods",lightgbm,2027-06-01,10,110.243,99.169,121.03
+"Retail: Cosmetics, Toiletries & Medical Goods",lightgbm,2027-07-01,11,107.633,96.929,118.44
+"Retail: Cosmetics, Toiletries & Medical Goods",lightgbm,2027-08-01,12,118.422,106.593,130.367
+Retail: Department Stores,seasonal_naive,2026-09-01,1,95.539,88.324,109.006
+Retail: Department Stores,seasonal_naive,2026-10-01,2,99.247,91.791,113.307
+Retail: Department Stores,seasonal_naive,2026-11-01,3,115.238,106.6,131.488
+Retail: Department Stores,seasonal_naive,2026-12-01,4,124.673,115.343,142.379
+Retail: Department Stores,seasonal_naive,2027-01-01,5,108.058,99.965,123.481
+Retail: Department Stores,seasonal_naive,2027-02-01,6,93.816,86.768,107.213
+Retail: Department Stores,seasonal_naive,2027-03-01,7,93.548,86.514,106.917
+Retail: Department Stores,seasonal_naive,2027-04-01,8,82.912,76.697,94.837
+Retail: Department Stores,seasonal_naive,2027-05-01,9,99.442,91.986,113.787
+Retail: Department Stores,seasonal_naive,2027-06-01,10,83.563,77.291,95.641
+Retail: Department Stores,seasonal_naive,2027-07-01,11,87.432,80.882,100.122
+Retail: Department Stores,seasonal_naive,2027-08-01,12,94.981,87.871,108.862
+Retail: Department Stores,naive_plus_growth,2026-09-01,1,93.974,84.972,102.195
+Retail: Department Stores,naive_plus_growth,2026-10-01,2,97.621,87.673,106.661
+Retail: Department Stores,naive_plus_growth,2026-11-01,3,113.35,101.5,124.242
+Retail: Department Stores,naive_plus_growth,2026-12-01,4,122.631,109.431,134.779
+Retail: Department Stores,naive_plus_growth,2027-01-01,5,106.288,94.46,117.146
+Retail: Department Stores,naive_plus_growth,2027-02-01,6,92.279,81.648,102.15
+Retail: Department Stores,naive_plus_growth,2027-03-01,7,92.015,80.922,102.201
+Retail: Department Stores,naive_plus_growth,2027-04-01,8,81.554,71.389,90.872
+Retail: Department Stores,naive_plus_growth,2027-05-01,9,97.813,84.985,109.58
+Retail: Department Stores,naive_plus_growth,2027-06-01,10,82.194,71.125,92.742
+Retail: Department Stores,naive_plus_growth,2027-07-01,11,86.0,74.184,97.595
+Retail: Department Stores,naive_plus_growth,2027-08-01,12,93.425,80.374,106.911
+Retail: Department Stores,ets,2026-09-01,1,90.226,84.207,97.086
+Retail: Department Stores,ets,2026-10-01,2,94.924,87.42,103.743
+Retail: Department Stores,ets,2026-11-01,3,108.453,99.578,119.205
+Retail: Department Stores,ets,2026-12-01,4,132.127,120.814,146.61
+Retail: Department Stores,ets,2027-01-01,5,115.531,105.879,129.236
+Retail: Department Stores,ets,2027-02-01,6,84.068,76.946,94.617
+Retail: Department Stores,ets,2027-03-01,7,89.404,81.447,101.063
+Retail: Department Stores,ets,2027-04-01,8,74.044,67.308,84.52
+Retail: Department Stores,ets,2027-05-01,9,76.852,69.807,87.31
+Retail: Department Stores,ets,2027-06-01,10,80.642,73.416,92.242
+Retail: Department Stores,ets,2027-07-01,11,87.987,80.487,100.754
+Retail: Department Stores,ets,2027-08-01,12,94.981,87.055,108.722
+Retail: Department Stores,lightgbm,2026-09-01,1,93.656,87.37,100.024
+Retail: Department Stores,lightgbm,2026-10-01,2,97.345,90.242,104.877
+Retail: Department Stores,lightgbm,2026-11-01,3,112.972,104.389,121.505
+Retail: Department Stores,lightgbm,2026-12-01,4,121.892,112.135,132.235
+Retail: Department Stores,lightgbm,2027-01-01,5,118.83,109.217,129.193
+Retail: Department Stores,lightgbm,2027-02-01,6,81.231,74.497,88.196
+Retail: Department Stores,lightgbm,2027-03-01,7,91.857,83.504,99.982
+Retail: Department Stores,lightgbm,2027-04-01,8,81.418,73.64,88.663
+Retail: Department Stores,lightgbm,2027-05-01,9,97.665,88.017,106.643
+Retail: Department Stores,lightgbm,2027-06-01,10,82.19,73.934,90.232
+Retail: Department Stores,lightgbm,2027-07-01,11,86.048,77.491,94.688
+Retail: Department Stores,lightgbm,2027-08-01,12,93.454,84.119,102.881
+Retail: Food & Alcohol,seasonal_naive,2026-09-01,1,94.764,87.608,108.121
+Retail: Food & Alcohol,seasonal_naive,2026-10-01,2,99.382,91.916,113.461
+Retail: Food & Alcohol,seasonal_naive,2026-11-01,3,96.246,89.031,109.818
+Retail: Food & Alcohol,seasonal_naive,2026-12-01,4,110.531,102.259,126.228
+Retail: Food & Alcohol,seasonal_naive,2027-01-01,5,111.462,103.114,127.371
+Retail: Food & Alcohol,seasonal_naive,2027-02-01,6,105.799,97.851,120.908
+Retail: Food & Alcohol,seasonal_naive,2027-03-01,7,100.197,92.663,114.516
+Retail: Food & Alcohol,seasonal_naive,2027-04-01,8,96.492,89.259,110.371
+Retail: Food & Alcohol,seasonal_naive,2027-05-01,9,95.258,88.115,108.999
+Retail: Food & Alcohol,seasonal_naive,2027-06-01,10,88.132,81.517,100.87
+Retail: Food & Alcohol,seasonal_naive,2027-07-01,11,94.478,87.4,108.191
+Retail: Food & Alcohol,seasonal_naive,2027-08-01,12,100.857,93.307,115.597
+Retail: Food & Alcohol,naive_plus_growth,2026-09-01,1,92.366,83.518,100.447
+Retail: Food & Alcohol,naive_plus_growth,2026-10-01,2,96.867,86.995,105.837
+Retail: Food & Alcohol,naive_plus_growth,2026-11-01,3,93.81,84.003,102.825
+Retail: Food & Alcohol,naive_plus_growth,2026-12-01,4,107.734,96.138,118.407
+Retail: Food & Alcohol,naive_plus_growth,2027-01-01,5,108.641,96.551,119.74
+Retail: Food & Alcohol,naive_plus_growth,2027-02-01,6,103.122,91.241,114.153
+Retail: Food & Alcohol,naive_plus_growth,2027-03-01,7,97.661,85.887,108.472
+Retail: Food & Alcohol,naive_plus_growth,2027-04-01,8,94.05,82.328,104.796
+Retail: Food & Alcohol,naive_plus_growth,2027-05-01,9,92.847,80.671,104.017
+Retail: Food & Alcohol,naive_plus_growth,2027-06-01,10,85.902,74.334,96.925
+Retail: Food & Alcohol,naive_plus_growth,2027-07-01,11,92.087,79.435,104.503
+Retail: Food & Alcohol,naive_plus_growth,2027-08-01,12,98.305,84.572,112.495
+Retail: Food & Alcohol,ets,2026-09-01,1,94.416,88.118,101.595
+Retail: Food & Alcohol,ets,2026-10-01,2,97.018,89.348,106.032
+Retail: Food & Alcohol,ets,2026-11-01,3,96.492,88.595,106.057
+Retail: Food & Alcohol,ets,2026-12-01,4,113.102,103.419,125.5
+Retail: Food & Alcohol,ets,2027-01-01,5,124.877,114.445,139.691
+Retail: Food & Alcohol,ets,2027-02-01,6,94.465,86.461,106.318
+Retail: Food & Alcohol,ets,2027-03-01,7,93.363,85.054,105.539
+Retail: Food & Alcohol,ets,2027-04-01,8,87.954,79.953,100.398
+Retail: Food & Alcohol,ets,2027-05-01,9,91.254,82.889,103.672
+Retail: Food & Alcohol,ets,2027-06-01,10,87.038,79.238,99.557
+Retail: Food & Alcohol,ets,2027-07-01,11,93.925,85.92,107.555
+Retail: Food & Alcohol,ets,2027-08-01,12,101.092,92.657,115.717
+Retail: Food & Alcohol,lightgbm,2026-09-01,1,92.836,86.605,99.149
+Retail: Food & Alcohol,lightgbm,2026-10-01,2,97.369,90.264,104.902
+Retail: Food & Alcohol,lightgbm,2026-11-01,3,94.438,87.264,101.571
+Retail: Food & Alcohol,lightgbm,2026-12-01,4,108.462,99.78,117.665
+Retail: Food & Alcohol,lightgbm,2027-01-01,5,127.539,117.22,138.661
+Retail: Food & Alcohol,lightgbm,2027-02-01,6,84.458,77.457,91.7
+Retail: Food & Alcohol,lightgbm,2027-03-01,7,98.581,89.617,107.301
+Retail: Food & Alcohol,lightgbm,2027-04-01,8,95.02,85.943,103.476
+Retail: Food & Alcohol,lightgbm,2027-05-01,9,93.866,84.594,102.495
+Retail: Food & Alcohol,lightgbm,2027-06-01,10,86.942,78.208,95.449
+Retail: Food & Alcohol,lightgbm,2027-07-01,11,93.259,83.984,102.623
+Retail: Food & Alcohol,lightgbm,2027-08-01,12,99.593,89.645,109.639
+Retail: Furniture & Household Equipment,seasonal_naive,2026-09-01,1,92.466,85.483,105.5
+Retail: Furniture & Household Equipment,seasonal_naive,2026-10-01,2,97.952,90.593,111.828
+Retail: Furniture & Household Equipment,seasonal_naive,2026-11-01,3,116.508,107.775,132.937
+Retail: Furniture & Household Equipment,seasonal_naive,2026-12-01,4,118.072,109.236,134.84
+Retail: Furniture & Household Equipment,seasonal_naive,2027-01-01,5,103.832,96.056,118.652
+Retail: Furniture & Household Equipment,seasonal_naive,2027-02-01,6,84.514,78.165,96.583
+Retail: Furniture & Household Equipment,seasonal_naive,2027-03-01,7,103.186,95.427,117.932
+Retail: Furniture & Household Equipment,seasonal_naive,2027-04-01,8,93.375,86.376,106.805
+Retail: Furniture & Household Equipment,seasonal_naive,2027-05-01,9,100.421,92.891,114.907
+Retail: Furniture & Household Equipment,seasonal_naive,2027-06-01,10,97.646,90.317,111.759
+Retail: Furniture & Household Equipment,seasonal_naive,2027-07-01,11,99.392,91.946,113.818
+Retail: Furniture & Household Equipment,seasonal_naive,2027-08-01,12,103.712,95.948,118.87
+Retail: Furniture & Household Equipment,naive_plus_growth,2026-09-01,1,93.537,84.577,101.721
+Retail: Furniture & Household Equipment,naive_plus_growth,2026-10-01,2,99.087,88.989,108.262
+Retail: Furniture & Household Equipment,naive_plus_growth,2026-11-01,3,117.858,105.537,129.183
+Retail: Furniture & Household Equipment,naive_plus_growth,2026-12-01,4,119.44,106.584,131.273
+Retail: Furniture & Household Equipment,naive_plus_growth,2027-01-01,5,105.035,93.346,115.765
+Retail: Furniture & Household Equipment,naive_plus_growth,2027-02-01,6,85.493,75.644,94.639
+Retail: Furniture & Household Equipment,naive_plus_growth,2027-03-01,7,104.382,91.797,115.936
+Retail: Furniture & Household Equipment,naive_plus_growth,2027-04-01,8,94.457,82.684,105.249
+Retail: Furniture & Household Equipment,naive_plus_growth,2027-05-01,9,101.585,88.262,113.805
+Retail: Furniture & Household Equipment,naive_plus_growth,2027-06-01,10,98.777,85.476,111.453
+Retail: Furniture & Household Equipment,naive_plus_growth,2027-07-01,11,100.544,86.73,114.099
+Retail: Furniture & Household Equipment,naive_plus_growth,2027-08-01,12,104.914,90.257,120.058
+Retail: Furniture & Household Equipment,ets,2026-09-01,1,99.363,92.734,106.918
+Retail: Furniture & Household Equipment,ets,2026-10-01,2,103.139,94.985,112.721
+Retail: Furniture & Household Equipment,ets,2026-11-01,3,115.05,105.634,126.455
+Retail: Furniture & Household Equipment,ets,2026-12-01,4,131.106,119.881,145.477
+Retail: Furniture & Household Equipment,ets,2027-01-01,5,112.882,103.452,126.273
+Retail: Furniture & Household Equipment,ets,2027-02-01,6,85.447,78.207,96.168
+Retail: Furniture & Household Equipment,ets,2027-03-01,7,106.192,96.741,120.04
+Retail: Furniture & Household Equipment,ets,2027-04-01,8,94.803,86.179,108.215
+Retail: Furniture & Household Equipment,ets,2027-05-01,9,95.866,87.077,108.911
+Retail: Furniture & Household Equipment,ets,2027-06-01,10,102.844,93.628,117.637
+Retail: Furniture & Household Equipment,ets,2027-07-01,11,104.603,95.687,119.782
+Retail: Furniture & Household Equipment,ets,2027-08-01,12,103.712,95.058,118.716
+Retail: Furniture & Household Equipment,lightgbm,2026-09-01,1,92.929,86.692,99.248
+Retail: Furniture & Household Equipment,lightgbm,2026-10-01,2,98.434,91.251,106.05
+Retail: Furniture & Household Equipment,lightgbm,2026-11-01,3,117.038,108.146,125.878
+Retail: Furniture & Household Equipment,lightgbm,2026-12-01,4,118.207,108.745,128.237
+Retail: Furniture & Household Equipment,lightgbm,2027-01-01,5,105.913,97.344,115.149
+Retail: Furniture & Household Equipment,lightgbm,2027-02-01,6,84.191,77.212,91.41
+Retail: Furniture & Household Equipment,lightgbm,2027-03-01,7,103.482,94.071,112.635
+Retail: Furniture & Household Equipment,lightgbm,2027-04-01,8,93.565,84.627,101.892
+Retail: Furniture & Household Equipment,lightgbm,2027-05-01,9,100.472,90.547,109.708
+Retail: Furniture & Household Equipment,lightgbm,2027-06-01,10,97.713,87.897,107.274
+Retail: Furniture & Household Equipment,lightgbm,2027-07-01,11,99.455,89.564,109.441
+Retail: Furniture & Household Equipment,lightgbm,2027-08-01,12,103.764,93.4,114.231
+Retail: Mini-Marts & Convenience Stores,seasonal_naive,2026-09-01,1,97.459,90.099,111.196
+Retail: Mini-Marts & Convenience Stores,seasonal_naive,2026-10-01,2,101.584,93.952,115.975
+Retail: Mini-Marts & Convenience Stores,seasonal_naive,2026-11-01,3,97.309,90.015,111.031
+Retail: Mini-Marts & Convenience Stores,seasonal_naive,2026-12-01,4,96.593,89.364,110.311
+Retail: Mini-Marts & Convenience Stores,seasonal_naive,2027-01-01,5,104.811,96.961,119.771
+Retail: Mini-Marts & Convenience Stores,seasonal_naive,2027-02-01,6,92.006,85.094,105.145
+Retail: Mini-Marts & Convenience Stores,seasonal_naive,2027-03-01,7,103.785,95.981,118.617
+Retail: Mini-Marts & Convenience Stores,seasonal_naive,2027-04-01,8,101.272,93.681,115.838
+Retail: Mini-Marts & Convenience Stores,seasonal_naive,2027-05-01,9,105.721,97.794,120.971
+Retail: Mini-Marts & Convenience Stores,seasonal_naive,2027-06-01,10,95.583,88.409,109.398
+Retail: Mini-Marts & Convenience Stores,seasonal_naive,2027-07-01,11,100.933,93.371,115.583
+Retail: Mini-Marts & Convenience Stores,seasonal_naive,2027-08-01,12,100.64,93.106,115.349
+Retail: Mini-Marts & Convenience Stores,naive_plus_growth,2026-09-01,1,98.36,88.937,106.965
+Retail: Mini-Marts & Convenience Stores,naive_plus_growth,2026-10-01,2,102.523,92.075,112.016
+Retail: Mini-Marts & Convenience Stores,naive_plus_growth,2026-11-01,3,98.209,87.942,107.646
+Retail: Mini-Marts & Convenience Stores,naive_plus_growth,2026-12-01,4,97.486,86.993,107.144
+Retail: Mini-Marts & Convenience Stores,naive_plus_growth,2027-01-01,5,105.78,94.008,116.586
+Retail: Mini-Marts & Convenience Stores,naive_plus_growth,2027-02-01,6,92.856,82.159,102.79
+Retail: Mini-Marts & Convenience Stores,naive_plus_growth,2027-03-01,7,104.744,92.116,116.339
+Retail: Mini-Marts & Convenience Stores,naive_plus_growth,2027-04-01,8,102.208,89.469,113.886
+Retail: Mini-Marts & Convenience Stores,naive_plus_growth,2027-05-01,9,106.698,92.705,119.534
+Retail: Mini-Marts & Convenience Stores,naive_plus_growth,2027-06-01,10,96.467,83.476,108.846
+Retail: Mini-Marts & Convenience Stores,naive_plus_growth,2027-07-01,11,101.866,87.871,115.6
+Retail: Mini-Marts & Convenience Stores,naive_plus_growth,2027-08-01,12,101.57,87.381,116.232
+Retail: Mini-Marts & Convenience Stores,ets,2026-09-01,1,96.655,90.207,104.004
+Retail: Mini-Marts & Convenience Stores,ets,2026-10-01,2,99.271,91.423,108.493
+Retail: Mini-Marts & Convenience Stores,ets,2026-11-01,3,94.41,86.683,103.769
+Retail: Mini-Marts & Convenience Stores,ets,2026-12-01,4,97.156,88.837,107.805
+Retail: Mini-Marts & Convenience Stores,ets,2027-01-01,5,105.684,96.855,118.222
+Retail: Mini-Marts & Convenience Stores,ets,2027-02-01,6,92.068,84.268,103.62
+Retail: Mini-Marts & Convenience Stores,ets,2027-03-01,7,99.87,90.981,112.894
+Retail: Mini-Marts & Convenience Stores,ets,2027-04-01,8,97.691,88.804,111.512
+Retail: Mini-Marts & Convenience Stores,ets,2027-05-01,9,101.287,92.002,115.071
+Retail: Mini-Marts & Convenience Stores,ets,2027-06-01,10,95.848,87.258,109.634
+Retail: Mini-Marts & Convenience Stores,ets,2027-07-01,11,100.094,91.563,114.619
+Retail: Mini-Marts & Convenience Stores,ets,2027-08-01,12,101.028,92.598,115.644
+Retail: Mini-Marts & Convenience Stores,lightgbm,2026-09-01,1,97.106,90.589,103.709
+Retail: Mini-Marts & Convenience Stores,lightgbm,2026-10-01,2,101.207,93.822,109.038
+Retail: Mini-Marts & Convenience Stores,lightgbm,2026-11-01,3,97.037,89.665,104.366
+Retail: Mini-Marts & Convenience Stores,lightgbm,2026-12-01,4,96.164,88.466,104.324
+Retail: Mini-Marts & Convenience Stores,lightgbm,2027-01-01,5,111.989,102.929,121.755
+Retail: Mini-Marts & Convenience Stores,lightgbm,2027-02-01,6,86.988,79.777,94.447
+Retail: Mini-Marts & Convenience Stores,lightgbm,2027-03-01,7,103.823,94.381,113.006
+Retail: Mini-Marts & Convenience Stores,lightgbm,2027-04-01,8,101.1,91.442,110.096
+Retail: Mini-Marts & Convenience Stores,lightgbm,2027-05-01,9,105.78,95.331,115.504
+Retail: Mini-Marts & Convenience Stores,lightgbm,2027-06-01,10,95.78,86.158,105.151
+Retail: Mini-Marts & Convenience Stores,lightgbm,2027-07-01,11,101.166,91.105,111.324
+Retail: Mini-Marts & Convenience Stores,lightgbm,2027-08-01,12,100.873,90.797,111.048
+"Retail: Motor Vehicles, Parts & Accessories",seasonal_naive,2026-09-01,1,102.793,95.03,117.282
+"Retail: Motor Vehicles, Parts & Accessories",seasonal_naive,2026-10-01,2,98.421,91.027,112.364
+"Retail: Motor Vehicles, Parts & Accessories",seasonal_naive,2026-11-01,3,90.254,83.489,102.981
+"Retail: Motor Vehicles, Parts & Accessories",seasonal_naive,2026-12-01,4,104.131,96.338,118.919
+"Retail: Motor Vehicles, Parts & Accessories",seasonal_naive,2027-01-01,5,105.929,97.995,121.048
+"Retail: Motor Vehicles, Parts & Accessories",seasonal_naive,2027-02-01,6,86.148,79.676,98.45
+"Retail: Motor Vehicles, Parts & Accessories",seasonal_naive,2027-03-01,7,123.307,114.035,140.929
+"Retail: Motor Vehicles, Parts & Accessories",seasonal_naive,2027-04-01,8,104.486,96.654,119.515
+"Retail: Motor Vehicles, Parts & Accessories",seasonal_naive,2027-05-01,9,102.921,95.204,117.767
+"Retail: Motor Vehicles, Parts & Accessories",seasonal_naive,2027-06-01,10,105.816,97.874,121.11
+"Retail: Motor Vehicles, Parts & Accessories",seasonal_naive,2027-07-01,11,110.092,101.844,126.071
+"Retail: Motor Vehicles, Parts & Accessories",seasonal_naive,2027-08-01,12,96.601,89.37,110.719
+"Retail: Motor Vehicles, Parts & Accessories",naive_plus_growth,2026-09-01,1,108.494,98.1,117.985
+"Retail: Motor Vehicles, Parts & Accessories",naive_plus_growth,2026-10-01,2,103.879,93.293,113.498
+"Retail: Motor Vehicles, Parts & Accessories",naive_plus_growth,2026-11-01,3,95.259,85.301,104.413
+"Retail: Motor Vehicles, Parts & Accessories",naive_plus_growth,2026-12-01,4,109.906,98.076,120.794
+"Retail: Motor Vehicles, Parts & Accessories",naive_plus_growth,2027-01-01,5,111.804,99.362,123.225
+"Retail: Motor Vehicles, Parts & Accessories",naive_plus_growth,2027-02-01,6,90.926,80.45,100.652
+"Retail: Motor Vehicles, Parts & Accessories",naive_plus_growth,2027-03-01,7,130.145,114.455,144.551
+"Retail: Motor Vehicles, Parts & Accessories",naive_plus_growth,2027-04-01,8,110.281,96.536,122.881
+"Retail: Motor Vehicles, Parts & Accessories",naive_plus_growth,2027-05-01,9,108.629,94.382,121.697
+"Retail: Motor Vehicles, Parts & Accessories",naive_plus_growth,2027-06-01,10,111.684,96.644,126.016
+"Retail: Motor Vehicles, Parts & Accessories",naive_plus_growth,2027-07-01,11,116.197,100.233,131.864
+"Retail: Motor Vehicles, Parts & Accessories",naive_plus_growth,2027-08-01,12,101.958,87.715,116.676
+"Retail: Motor Vehicles, Parts & Accessories",ets,2026-09-01,1,95.939,89.539,103.233
+"Retail: Motor Vehicles, Parts & Accessories",ets,2026-10-01,2,94.966,87.458,103.789
+"Retail: Motor Vehicles, Parts & Accessories",ets,2026-11-01,3,91.923,84.4,101.036
+"Retail: Motor Vehicles, Parts & Accessories",ets,2026-12-01,4,98.243,89.831,109.011
+"Retail: Motor Vehicles, Parts & Accessories",ets,2027-01-01,5,98.871,90.611,110.6
+"Retail: Motor Vehicles, Parts & Accessories",ets,2027-02-01,6,83.885,76.778,94.41
+"Retail: Motor Vehicles, Parts & Accessories",ets,2027-03-01,7,115.887,105.573,131.0
+"Retail: Motor Vehicles, Parts & Accessories",ets,2027-04-01,8,86.617,78.737,98.871
+"Retail: Motor Vehicles, Parts & Accessories",ets,2027-05-01,9,85.71,77.852,97.373
+"Retail: Motor Vehicles, Parts & Accessories",ets,2027-06-01,10,96.458,87.814,110.332
+"Retail: Motor Vehicles, Parts & Accessories",ets,2027-07-01,11,99.615,91.124,114.07
+"Retail: Motor Vehicles, Parts & Accessories",ets,2027-08-01,12,96.024,88.011,109.916
+"Retail: Motor Vehicles, Parts & Accessories",lightgbm,2026-09-01,1,100.617,93.864,107.459
+"Retail: Motor Vehicles, Parts & Accessories",lightgbm,2026-10-01,2,96.398,89.364,103.857
+"Retail: Motor Vehicles, Parts & Accessories",lightgbm,2026-11-01,3,88.302,81.593,94.971
+"Retail: Motor Vehicles, Parts & Accessories",lightgbm,2026-12-01,4,101.732,93.588,110.364
+"Retail: Motor Vehicles, Parts & Accessories",lightgbm,2027-01-01,5,104.766,96.29,113.902
+"Retail: Motor Vehicles, Parts & Accessories",lightgbm,2027-02-01,6,83.308,76.402,90.45
+"Retail: Motor Vehicles, Parts & Accessories",lightgbm,2027-03-01,7,120.22,109.288,130.854
+"Retail: Motor Vehicles, Parts & Accessories",lightgbm,2027-04-01,8,101.834,92.106,110.896
+"Retail: Motor Vehicles, Parts & Accessories",lightgbm,2027-05-01,9,100.2,90.302,109.411
+"Retail: Motor Vehicles, Parts & Accessories",lightgbm,2027-06-01,10,103.181,92.815,113.277
+"Retail: Motor Vehicles, Parts & Accessories",lightgbm,2027-07-01,11,107.415,96.733,118.201
+"Retail: Motor Vehicles, Parts & Accessories",lightgbm,2027-08-01,12,94.343,84.92,103.86
+Retail: Optical Goods & Books,seasonal_naive,2026-09-01,1,91.15,84.267,103.998
+Retail: Optical Goods & Books,seasonal_naive,2026-10-01,2,93.212,86.209,106.417
+Retail: Optical Goods & Books,seasonal_naive,2026-11-01,3,117.536,108.726,134.11
+Retail: Optical Goods & Books,seasonal_naive,2026-12-01,4,146.684,135.707,167.515
+Retail: Optical Goods & Books,seasonal_naive,2027-01-01,5,108.03,99.939,123.449
+Retail: Optical Goods & Books,seasonal_naive,2027-02-01,6,78.445,72.552,89.647
+Retail: Optical Goods & Books,seasonal_naive,2027-03-01,7,92.206,85.272,105.383
+Retail: Optical Goods & Books,seasonal_naive,2027-04-01,8,92.47,85.539,105.77
+Retail: Optical Goods & Books,seasonal_naive,2027-05-01,9,99.76,92.28,114.15
+Retail: Optical Goods & Books,seasonal_naive,2027-06-01,10,90.327,83.548,103.383
+Retail: Optical Goods & Books,seasonal_naive,2027-07-01,11,98.089,90.741,112.326
+Retail: Optical Goods & Books,seasonal_naive,2027-08-01,12,103.592,95.837,118.732
+Retail: Optical Goods & Books,naive_plus_growth,2026-09-01,1,93.682,84.708,101.878
+Retail: Optical Goods & Books,naive_plus_growth,2026-10-01,2,95.802,86.039,104.673
+Retail: Optical Goods & Books,naive_plus_growth,2026-11-01,3,120.801,108.173,132.41
+Retail: Optical Goods & Books,naive_plus_growth,2026-12-01,4,150.759,134.532,165.695
+Retail: Optical Goods & Books,naive_plus_growth,2027-01-01,5,111.031,98.675,122.374
+Retail: Optical Goods & Books,naive_plus_growth,2027-02-01,6,80.624,71.336,89.249
+Retail: Optical Goods & Books,naive_plus_growth,2027-03-01,7,94.768,83.342,105.258
+Retail: Optical Goods & Books,naive_plus_growth,2027-04-01,8,95.039,83.194,105.898
+Retail: Optical Goods & Books,naive_plus_growth,2027-05-01,9,102.532,89.085,114.866
+Retail: Optical Goods & Books,naive_plus_growth,2027-06-01,10,92.837,80.335,104.75
+Retail: Optical Goods & Books,naive_plus_growth,2027-07-01,11,100.814,86.963,114.406
+Retail: Optical Goods & Books,naive_plus_growth,2027-08-01,12,106.47,91.596,121.839
+Retail: Optical Goods & Books,ets,2026-09-01,1,94.034,87.76,101.183
+Retail: Optical Goods & Books,ets,2026-10-01,2,97.649,89.93,106.721
+Retail: Optical Goods & Books,ets,2026-11-01,3,121.238,111.317,133.258
+Retail: Optical Goods & Books,ets,2026-12-01,4,155.668,142.34,172.731
+Retail: Optical Goods & Books,ets,2027-01-01,5,110.517,101.284,123.628
+Retail: Optical Goods & Books,ets,2027-02-01,6,89.566,81.977,100.804
+Retail: Optical Goods & Books,ets,2027-03-01,7,101.126,92.125,114.314
+Retail: Optical Goods & Books,ets,2027-04-01,8,90.026,81.837,102.763
+Retail: Optical Goods & Books,ets,2027-05-01,9,84.54,76.789,96.044
+Retail: Optical Goods & Books,ets,2027-06-01,10,90.961,82.81,104.045
+Retail: Optical Goods & Books,ets,2027-07-01,11,100.554,91.983,115.145
+Retail: Optical Goods & Books,ets,2027-08-01,12,102.964,94.372,117.86
+Retail: Optical Goods & Books,lightgbm,2026-09-01,1,90.163,84.111,96.294
+Retail: Optical Goods & Books,lightgbm,2026-10-01,2,92.194,85.467,99.327
+Retail: Optical Goods & Books,lightgbm,2026-11-01,3,116.283,107.449,125.066
+Retail: Optical Goods & Books,lightgbm,2026-12-01,4,145.049,133.438,157.357
+Retail: Optical Goods & Books,lightgbm,2027-01-01,5,106.243,97.648,115.508
+Retail: Optical Goods & Books,lightgbm,2027-02-01,6,78.284,71.794,84.996
+Retail: Optical Goods & Books,lightgbm,2027-03-01,7,91.163,82.873,99.226
+Retail: Optical Goods & Books,lightgbm,2027-04-01,8,91.361,82.633,99.491
+Retail: Optical Goods & Books,lightgbm,2027-05-01,9,98.508,88.778,107.565
+Retail: Optical Goods & Books,lightgbm,2027-06-01,10,89.296,80.325,98.033
+Retail: Optical Goods & Books,lightgbm,2027-07-01,11,96.998,87.352,106.738
+Retail: Optical Goods & Books,lightgbm,2027-08-01,12,102.478,92.242,112.815
+Retail: Others,seasonal_naive,2026-09-01,1,95.879,88.639,109.394
+Retail: Others,seasonal_naive,2026-10-01,2,97.534,90.207,111.351
+Retail: Others,seasonal_naive,2026-11-01,3,98.868,91.457,112.81
+Retail: Others,seasonal_naive,2026-12-01,4,104.334,96.526,119.151
+Retail: Others,seasonal_naive,2027-01-01,5,99.295,91.858,113.467
+Retail: Others,seasonal_naive,2027-02-01,6,107.303,99.242,122.627
+Retail: Others,seasonal_naive,2027-03-01,7,96.494,89.238,110.284
+Retail: Others,seasonal_naive,2027-04-01,8,91.705,84.831,104.895
+Retail: Others,seasonal_naive,2027-05-01,9,92.354,85.429,105.676
+Retail: Others,seasonal_naive,2027-06-01,10,91.006,84.176,104.16
+Retail: Others,seasonal_naive,2027-07-01,11,95.371,88.226,109.213
+Retail: Others,seasonal_naive,2027-08-01,12,98.674,91.287,113.095
+Retail: Others,naive_plus_growth,2026-09-01,1,90.357,81.701,98.262
+Retail: Others,naive_plus_growth,2026-10-01,2,91.916,82.549,100.428
+Retail: Others,naive_plus_growth,2026-11-01,3,93.174,83.433,102.127
+Retail: Others,naive_plus_growth,2026-12-01,4,98.325,87.742,108.066
+Retail: Others,naive_plus_growth,2027-01-01,5,93.576,83.162,103.135
+Retail: Others,naive_plus_growth,2027-02-01,6,101.123,89.473,111.94
+Retail: Others,naive_plus_growth,2027-03-01,7,90.936,79.973,101.002
+Retail: Others,naive_plus_growth,2027-04-01,8,86.423,75.652,96.298
+Retail: Others,naive_plus_growth,2027-05-01,9,87.035,75.62,97.505
+Retail: Others,naive_plus_growth,2027-06-01,10,85.764,74.215,96.77
+Retail: Others,naive_plus_growth,2027-07-01,11,89.878,77.53,101.996
+Retail: Others,naive_plus_growth,2027-08-01,12,92.991,80.0,106.414
+Retail: Others,ets,2026-09-01,1,98.009,91.47,105.461
+Retail: Others,ets,2026-10-01,2,99.674,91.794,108.934
+Retail: Others,ets,2026-11-01,3,100.173,91.975,110.104
+Retail: Others,ets,2026-12-01,4,109.45,100.079,121.448
+Retail: Others,ets,2027-01-01,5,103.089,94.477,115.318
+Retail: Others,ets,2027-02-01,6,92.095,84.292,103.65
+Retail: Others,ets,2027-03-01,7,97.276,88.618,109.962
+Retail: Others,ets,2027-04-01,8,88.195,80.172,100.672
+Retail: Others,ets,2027-05-01,9,88.406,80.302,100.437
+Retail: Others,ets,2027-06-01,10,91.445,83.25,104.598
+Retail: Others,ets,2027-07-01,11,98.347,89.965,112.618
+Retail: Others,ets,2027-08-01,12,97.864,89.698,112.022
+Retail: Others,lightgbm,2026-09-01,1,93.77,87.476,100.146
+Retail: Others,lightgbm,2026-10-01,2,95.921,88.922,103.343
+Retail: Others,lightgbm,2026-11-01,3,97.48,90.074,104.843
+Retail: Others,lightgbm,2026-12-01,4,103.295,95.026,112.06
+Retail: Others,lightgbm,2027-01-01,5,102.863,94.541,111.833
+Retail: Others,lightgbm,2027-02-01,6,102.902,94.372,111.725
+Retail: Others,lightgbm,2027-03-01,7,96.905,88.093,105.477
+Retail: Others,lightgbm,2027-04-01,8,92.465,83.632,100.693
+Retail: Others,lightgbm,2027-05-01,9,93.368,84.145,101.952
+Retail: Others,lightgbm,2027-06-01,10,92.396,83.114,101.436
+Retail: Others,lightgbm,2027-07-01,11,96.686,87.07,106.394
+Retail: Others,lightgbm,2027-08-01,12,99.933,89.952,110.014
+Retail: Petrol Service Stations,seasonal_naive,2026-09-01,1,97.68,90.304,111.448
+Retail: Petrol Service Stations,seasonal_naive,2026-10-01,2,91.4,84.533,104.348
+Retail: Petrol Service Stations,seasonal_naive,2026-11-01,3,95.166,88.032,108.586
+Retail: Petrol Service Stations,seasonal_naive,2026-12-01,4,88.997,82.337,101.636
+Retail: Petrol Service Stations,seasonal_naive,2027-01-01,5,95.396,88.251,109.012
+Retail: Petrol Service Stations,seasonal_naive,2027-02-01,6,87.956,81.348,100.517
+Retail: Petrol Service Stations,seasonal_naive,2027-03-01,7,110.34,102.043,126.109
+Retail: Petrol Service Stations,seasonal_naive,2027-04-01,8,116.825,108.068,133.628
+Retail: Petrol Service Stations,seasonal_naive,2027-05-01,9,113.424,104.919,129.785
+Retail: Petrol Service Stations,seasonal_naive,2027-06-01,10,103.998,96.193,119.029
+Retail: Petrol Service Stations,seasonal_naive,2027-07-01,11,106.93,98.919,122.45
+Retail: Petrol Service Stations,seasonal_naive,2027-08-01,12,109.723,101.509,125.759
+Retail: Petrol Service Stations,naive_plus_growth,2026-09-01,1,95.695,86.528,104.067
+Retail: Petrol Service Stations,naive_plus_growth,2026-10-01,2,89.543,80.418,97.834
+Retail: Petrol Service Stations,naive_plus_growth,2026-11-01,3,93.232,83.486,102.191
+Retail: Petrol Service Stations,naive_plus_growth,2026-12-01,4,87.189,77.804,95.826
+Retail: Petrol Service Stations,naive_plus_growth,2027-01-01,5,93.458,83.057,103.005
+Retail: Petrol Service Stations,naive_plus_growth,2027-02-01,6,86.169,76.241,95.386
+Retail: Petrol Service Stations,naive_plus_growth,2027-03-01,7,108.098,95.066,120.064
+Retail: Petrol Service Stations,naive_plus_growth,2027-04-01,8,114.451,100.187,127.528
+Retail: Petrol Service Stations,naive_plus_growth,2027-05-01,9,111.119,96.546,124.487
+Retail: Petrol Service Stations,naive_plus_growth,2027-06-01,10,101.885,88.164,114.959
+Retail: Petrol Service Stations,naive_plus_growth,2027-07-01,11,104.757,90.365,118.881
+Retail: Petrol Service Stations,naive_plus_growth,2027-08-01,12,107.493,92.477,123.01
+Retail: Petrol Service Stations,ets,2026-09-01,1,106.735,99.615,114.85
+Retail: Petrol Service Stations,ets,2026-10-01,2,108.587,100.002,118.675
+Retail: Petrol Service Stations,ets,2026-11-01,3,104.465,95.916,114.821
+Retail: Petrol Service Stations,ets,2026-12-01,4,102.106,93.364,113.298
+Retail: Petrol Service Stations,ets,2027-01-01,5,108.83,99.738,121.74
+Retail: Petrol Service Stations,ets,2027-02-01,6,100.111,91.629,112.672
+Retail: Petrol Service Stations,ets,2027-03-01,7,112.734,102.7,127.435
+Retail: Petrol Service Stations,ets,2027-04-01,8,104.573,95.06,119.368
+Retail: Petrol Service Stations,ets,2027-05-01,9,103.934,94.406,118.077
+Retail: Petrol Service Stations,ets,2027-06-01,10,100.746,91.718,115.236
+Retail: Petrol Service Stations,ets,2027-07-01,11,109.674,100.326,125.589
+Retail: Petrol Service Stations,ets,2027-08-01,12,109.723,100.567,125.597
+Retail: Petrol Service Stations,lightgbm,2026-09-01,1,99.97,93.26,106.768
+Retail: Petrol Service Stations,lightgbm,2026-10-01,2,93.534,86.709,100.771
+Retail: Petrol Service Stations,lightgbm,2026-11-01,3,97.38,89.982,104.735
+Retail: Petrol Service Stations,lightgbm,2026-12-01,4,90.964,83.683,98.683
+Retail: Petrol Service Stations,lightgbm,2027-01-01,5,100.727,92.578,109.511
+Retail: Petrol Service Stations,lightgbm,2027-02-01,6,86.916,79.711,94.368
+Retail: Petrol Service Stations,lightgbm,2027-03-01,7,112.91,102.643,122.898
+Retail: Petrol Service Stations,lightgbm,2027-04-01,8,119.302,107.905,129.918
+Retail: Petrol Service Stations,lightgbm,2027-05-01,9,115.506,104.096,126.124
+Retail: Petrol Service Stations,lightgbm,2027-06-01,10,105.847,95.214,116.204
+Retail: Petrol Service Stations,lightgbm,2027-07-01,11,108.708,97.897,119.624
+Retail: Petrol Service Stations,lightgbm,2027-08-01,12,111.51,100.372,122.758
+Retail: Recreational Goods,seasonal_naive,2026-09-01,1,102.371,94.64,116.801
+Retail: Recreational Goods,seasonal_naive,2026-10-01,2,112.069,103.65,127.945
+Retail: Recreational Goods,seasonal_naive,2026-11-01,3,113.643,105.124,129.668
+Retail: Recreational Goods,seasonal_naive,2026-12-01,4,143.637,132.888,164.036
+Retail: Recreational Goods,seasonal_naive,2027-01-01,5,104.98,97.118,119.964
+Retail: Recreational Goods,seasonal_naive,2027-02-01,6,93.013,86.025,106.296
+Retail: Recreational Goods,seasonal_naive,2027-03-01,7,98.64,91.223,112.737
+Retail: Recreational Goods,seasonal_naive,2027-04-01,8,95.435,88.281,109.162
+Retail: Recreational Goods,seasonal_naive,2027-05-01,9,111.573,103.207,127.667
+Retail: Recreational Goods,seasonal_naive,2027-06-01,10,98.649,91.245,112.907
+Retail: Recreational Goods,seasonal_naive,2027-07-01,11,105.162,97.284,120.425
+Retail: Recreational Goods,seasonal_naive,2027-08-01,12,113.218,104.743,129.765
+Retail: Recreational Goods,naive_plus_growth,2026-09-01,1,117.681,106.408,127.976
+Retail: Recreational Goods,naive_plus_growth,2026-10-01,2,128.829,115.701,140.759
+Retail: Recreational Goods,naive_plus_growth,2026-11-01,3,130.639,116.982,143.192
+Retail: Recreational Goods,naive_plus_growth,2026-12-01,4,165.119,147.346,181.476
+Retail: Recreational Goods,naive_plus_growth,2027-01-01,5,120.68,107.25,133.008
+Retail: Recreational Goods,naive_plus_growth,2027-02-01,6,106.924,94.605,118.361
+Retail: Recreational Goods,naive_plus_growth,2027-03-01,7,113.392,99.721,125.944
+Retail: Recreational Goods,naive_plus_growth,2027-04-01,8,109.708,96.034,122.242
+Retail: Recreational Goods,naive_plus_growth,2027-05-01,9,128.259,111.438,143.689
+Retail: Recreational Goods,naive_plus_growth,2027-06-01,10,113.402,98.131,127.955
+Retail: Recreational Goods,naive_plus_growth,2027-07-01,11,120.889,104.281,137.188
+Retail: Recreational Goods,naive_plus_growth,2027-08-01,12,130.15,111.968,148.938
+Retail: Recreational Goods,ets,2026-09-01,1,105.154,98.139,113.149
+Retail: Recreational Goods,ets,2026-10-01,2,108.255,99.697,118.312
+Retail: Recreational Goods,ets,2026-11-01,3,117.067,107.486,128.673
+Retail: Recreational Goods,ets,2026-12-01,4,153.839,140.668,170.702
+Retail: Recreational Goods,ets,2027-01-01,5,109.297,100.166,122.263
+Retail: Recreational Goods,ets,2027-02-01,6,95.994,87.861,108.039
+Retail: Recreational Goods,ets,2027-03-01,7,109.462,99.719,123.736
+Retail: Recreational Goods,ets,2027-04-01,8,95.014,86.371,108.457
+Retail: Recreational Goods,ets,2027-05-01,9,95.987,87.188,109.05
+Retail: Recreational Goods,ets,2027-06-01,10,104.535,95.168,119.571
+Retail: Recreational Goods,ets,2027-07-01,11,110.672,101.239,126.732
+Retail: Recreational Goods,ets,2027-08-01,12,115.338,105.714,132.024
+Retail: Recreational Goods,lightgbm,2026-09-01,1,105.129,98.073,112.278
+Retail: Recreational Goods,lightgbm,2026-10-01,2,114.775,106.4,123.655
+Retail: Recreational Goods,lightgbm,2026-11-01,3,116.138,107.314,124.909
+Retail: Recreational Goods,lightgbm,2026-12-01,4,146.282,134.572,158.694
+Retail: Recreational Goods,lightgbm,2027-01-01,5,110.203,101.287,119.813
+Retail: Recreational Goods,lightgbm,2027-02-01,6,90.543,83.037,98.306
+Retail: Recreational Goods,lightgbm,2027-03-01,7,99.36,90.325,108.149
+Retail: Recreational Goods,lightgbm,2027-04-01,8,95.817,86.664,104.343
+Retail: Recreational Goods,lightgbm,2027-05-01,9,111.585,100.563,121.843
+Retail: Recreational Goods,lightgbm,2027-06-01,10,98.166,88.305,107.771
+Retail: Recreational Goods,lightgbm,2027-07-01,11,104.587,94.186,115.088
+Retail: Recreational Goods,lightgbm,2027-08-01,12,112.598,101.352,123.957
+Retail: Supermarkets & Hypermarkets,seasonal_naive,2026-09-01,1,97.512,90.148,111.257
+Retail: Supermarkets & Hypermarkets,seasonal_naive,2026-10-01,2,98.821,91.397,112.82
+Retail: Supermarkets & Hypermarkets,seasonal_naive,2026-11-01,3,96.75,89.498,110.393
+Retail: Supermarkets & Hypermarkets,seasonal_naive,2026-12-01,4,100.942,93.388,115.277
+Retail: Supermarkets & Hypermarkets,seasonal_naive,2027-01-01,5,111.578,103.221,127.503
+Retail: Supermarkets & Hypermarkets,seasonal_naive,2027-02-01,6,110.332,102.043,126.088
+Retail: Supermarkets & Hypermarkets,seasonal_naive,2027-03-01,7,99.945,92.43,114.228
+Retail: Supermarkets & Hypermarkets,seasonal_naive,2027-04-01,8,96.959,89.691,110.905
+Retail: Supermarkets & Hypermarkets,seasonal_naive,2027-05-01,9,101.321,93.724,115.937
+Retail: Supermarkets & Hypermarkets,seasonal_naive,2027-06-01,10,97.359,90.052,111.431
+Retail: Supermarkets & Hypermarkets,seasonal_naive,2027-07-01,11,106.238,98.279,121.658
+Retail: Supermarkets & Hypermarkets,seasonal_naive,2027-08-01,12,109.649,101.441,125.674
+Retail: Supermarkets & Hypermarkets,naive_plus_growth,2026-09-01,1,101.16,91.469,110.01
+Retail: Supermarkets & Hypermarkets,naive_plus_growth,2026-10-01,2,102.518,92.07,112.01
+Retail: Supermarkets & Hypermarkets,naive_plus_growth,2026-11-01,3,100.369,89.876,110.014
+Retail: Supermarkets & Hypermarkets,naive_plus_growth,2026-12-01,4,104.718,93.447,115.092
+Retail: Supermarkets & Hypermarkets,naive_plus_growth,2027-01-01,5,115.752,102.87,127.577
+Retail: Supermarkets & Hypermarkets,naive_plus_growth,2027-02-01,6,114.459,101.273,126.703
+Retail: Supermarkets & Hypermarkets,naive_plus_growth,2027-03-01,7,103.684,91.183,115.161
+Retail: Supermarkets & Hypermarkets,naive_plus_growth,2027-04-01,8,100.586,88.049,112.078
+Retail: Supermarkets & Hypermarkets,naive_plus_growth,2027-05-01,9,105.111,91.326,117.756
+Retail: Supermarkets & Hypermarkets,naive_plus_growth,2027-06-01,10,101.001,87.4,113.962
+Retail: Supermarkets & Hypermarkets,naive_plus_growth,2027-07-01,11,110.212,95.07,125.071
+Retail: Supermarkets & Hypermarkets,naive_plus_growth,2027-08-01,12,113.751,97.86,130.171
+Retail: Supermarkets & Hypermarkets,ets,2026-09-01,1,100.277,93.587,107.901
+Retail: Supermarkets & Hypermarkets,ets,2026-10-01,2,104.124,95.892,113.798
+Retail: Supermarkets & Hypermarkets,ets,2026-11-01,3,98.958,90.86,108.769
+Retail: Supermarkets & Hypermarkets,ets,2026-12-01,4,107.591,98.379,119.385
+Retail: Supermarkets & Hypermarkets,ets,2027-01-01,5,125.226,114.765,140.082
+Retail: Supermarkets & Hypermarkets,ets,2027-02-01,6,103.043,94.313,115.972
+Retail: Supermarkets & Hypermarkets,ets,2027-03-01,7,105.403,96.022,119.149
+Retail: Supermarkets & Hypermarkets,ets,2027-04-01,8,105.568,95.964,120.503
+Retail: Supermarkets & Hypermarkets,ets,2027-05-01,9,110.708,100.559,125.774
+Retail: Supermarkets & Hypermarkets,ets,2027-06-01,10,102.801,93.589,117.587
+Retail: Supermarkets & Hypermarkets,ets,2027-07-01,11,108.827,99.551,124.618
+Retail: Supermarkets & Hypermarkets,ets,2027-08-01,12,110.864,101.613,126.903
+Retail: Supermarkets & Hypermarkets,lightgbm,2026-09-01,1,99.681,92.991,106.46
+Retail: Supermarkets & Hypermarkets,lightgbm,2026-10-01,2,101.01,93.64,108.825
+Retail: Supermarkets & Hypermarkets,lightgbm,2026-11-01,3,98.921,91.406,106.392
+Retail: Supermarkets & Hypermarkets,lightgbm,2026-12-01,4,103.02,94.773,111.761
+Retail: Supermarkets & Hypermarkets,lightgbm,2027-01-01,5,130.109,119.583,141.455
+Retail: Supermarkets & Hypermarkets,lightgbm,2027-02-01,6,100.64,92.297,109.269
+Retail: Supermarkets & Hypermarkets,lightgbm,2027-03-01,7,102.486,93.167,111.552
+Retail: Supermarkets & Hypermarkets,lightgbm,2027-04-01,8,99.306,89.82,108.143
+Retail: Supermarkets & Hypermarkets,lightgbm,2027-05-01,9,103.731,93.485,113.268
+Retail: Supermarkets & Hypermarkets,lightgbm,2027-06-01,10,99.651,89.64,109.401
+Retail: Supermarkets & Hypermarkets,lightgbm,2027-07-01,11,108.766,97.949,119.687
+Retail: Supermarkets & Hypermarkets,lightgbm,2027-08-01,12,112.23,101.02,123.551
+Retail: Total,seasonal_naive,2026-09-01,1,96.564,89.272,110.175
+Retail: Total,seasonal_naive,2026-10-01,2,102.14,94.466,116.609
+Retail: Total,seasonal_naive,2026-11-01,3,102.965,95.247,117.484
+Retail: Total,seasonal_naive,2026-12-01,4,112.543,104.121,128.526
+Retail: Total,seasonal_naive,2027-01-01,5,106.275,98.316,121.443
+Retail: Total,seasonal_naive,2027-02-01,6,97.01,89.722,110.864
+Retail: Total,seasonal_naive,2027-03-01,7,106.548,98.536,121.775
+Retail: Total,seasonal_naive,2027-04-01,8,97.63,90.312,111.672
+Retail: Total,seasonal_naive,2027-05-01,9,102.364,94.689,117.13
+Retail: Total,seasonal_naive,2027-06-01,10,97.4,90.09,111.478
+Retail: Total,seasonal_naive,2027-07-01,11,101.479,93.877,116.208
+Retail: Total,seasonal_naive,2027-08-01,12,102.584,94.905,117.577
+Retail: Total,naive_plus_growth,2026-09-01,1,99.733,90.179,108.459
+Retail: Total,naive_plus_growth,2026-10-01,2,105.492,94.742,115.261
+Retail: Total,naive_plus_growth,2026-11-01,3,106.345,95.227,116.563
+Retail: Total,naive_plus_growth,2026-12-01,4,116.237,103.726,127.752
+Retail: Total,naive_plus_growth,2027-01-01,5,109.763,97.548,120.976
+Retail: Total,naive_plus_growth,2027-02-01,6,100.194,88.651,110.912
+Retail: Total,naive_plus_growth,2027-03-01,7,110.045,96.778,122.226
+Retail: Total,naive_plus_growth,2027-04-01,8,100.834,88.267,112.355
+Retail: Total,naive_plus_growth,2027-05-01,9,105.724,91.858,118.442
+Retail: Total,naive_plus_growth,2027-06-01,10,100.597,87.05,113.506
+Retail: Total,naive_plus_growth,2027-07-01,11,104.81,90.41,118.941
+Retail: Total,naive_plus_growth,2027-08-01,12,105.951,91.15,121.245
+Retail: Total,ets,2026-09-01,1,99.407,92.776,106.965
+Retail: Total,ets,2026-10-01,2,103.355,95.184,112.957
+Retail: Total,ets,2026-11-01,3,105.806,97.147,116.296
+Retail: Total,ets,2026-12-01,4,120.664,110.333,133.891
+Retail: Total,ets,2027-01-01,5,113.261,103.799,126.697
+Retail: Total,ets,2027-02-01,6,94.709,86.685,106.593
+Retail: Total,ets,2027-03-01,7,105.545,96.151,119.308
+Retail: Total,ets,2027-04-01,8,94.985,86.344,108.423
+Retail: Total,ets,2027-05-01,9,97.712,88.754,111.008
+Retail: Total,ets,2027-06-01,10,97.734,88.976,111.791
+Retail: Total,ets,2027-07-01,11,102.544,93.804,117.424
+Retail: Total,ets,2027-08-01,12,103.313,94.692,118.259
+Retail: Total,lightgbm,2026-09-01,1,97.516,90.971,104.147
+Retail: Total,lightgbm,2026-10-01,2,103.137,95.612,111.117
+Retail: Total,lightgbm,2026-11-01,3,103.925,96.03,111.774
+Retail: Total,lightgbm,2026-12-01,4,113.372,104.297,122.992
+Retail: Total,lightgbm,2027-01-01,5,115.124,105.81,125.163
+Retail: Total,lightgbm,2027-02-01,6,91.168,83.61,98.984
+Retail: Total,lightgbm,2027-03-01,7,107.318,97.559,116.81
+Retail: Total,lightgbm,2027-04-01,8,98.21,88.828,106.949
+Retail: Total,lightgbm,2027-05-01,9,102.86,92.7,112.316
+Retail: Total,lightgbm,2027-06-01,10,97.875,88.043,107.452
+Retail: Total,lightgbm,2027-07-01,11,101.968,91.828,112.207
+Retail: Total,lightgbm,2027-08-01,12,103.065,92.771,113.462
+"Retail: Total (Excluding Motor Vehicles, Parts & Accessories)",seasonal_naive,2026-09-01,1,95.479,88.269,108.937
+"Retail: Total (Excluding Motor Vehicles, Parts & Accessories)",seasonal_naive,2026-10-01,2,102.788,95.066,117.349
+"Retail: Total (Excluding Motor Vehicles, Parts & Accessories)",seasonal_naive,2026-11-01,3,105.179,97.295,120.01
+"Retail: Total (Excluding Motor Vehicles, Parts & Accessories)",seasonal_naive,2026-12-01,4,114.008,105.476,130.199
+"Retail: Total (Excluding Motor Vehicles, Parts & Accessories)",seasonal_naive,2027-01-01,5,106.336,98.372,121.513
+"Retail: Total (Excluding Motor Vehicles, Parts & Accessories)",seasonal_naive,2027-02-01,6,98.902,91.472,113.026
+"Retail: Total (Excluding Motor Vehicles, Parts & Accessories)",seasonal_naive,2027-03-01,7,103.629,95.837,118.439
+"Retail: Total (Excluding Motor Vehicles, Parts & Accessories)",seasonal_naive,2027-04-01,8,96.436,89.207,110.307
+"Retail: Total (Excluding Motor Vehicles, Parts & Accessories)",seasonal_naive,2027-05-01,9,102.267,94.599,117.019
+"Retail: Total (Excluding Motor Vehicles, Parts & Accessories)",seasonal_naive,2027-06-01,10,95.935,88.735,109.801
+"Retail: Total (Excluding Motor Vehicles, Parts & Accessories)",seasonal_naive,2027-07-01,11,99.98,92.49,114.491
+"Retail: Total (Excluding Motor Vehicles, Parts & Accessories)",seasonal_naive,2027-08-01,12,103.626,95.869,118.771
+"Retail: Total (Excluding Motor Vehicles, Parts & Accessories)",naive_plus_growth,2026-09-01,1,98.3,88.883,106.9
+"Retail: Total (Excluding Motor Vehicles, Parts & Accessories)",naive_plus_growth,2026-10-01,2,105.825,95.04,115.624
+"Retail: Total (Excluding Motor Vehicles, Parts & Accessories)",naive_plus_growth,2026-11-01,3,108.287,96.966,118.692
+"Retail: Total (Excluding Motor Vehicles, Parts & Accessories)",naive_plus_growth,2026-12-01,4,117.376,104.743,129.005
+"Retail: Total (Excluding Motor Vehicles, Parts & Accessories)",naive_plus_growth,2027-01-01,5,109.478,97.295,120.662
+"Retail: Total (Excluding Motor Vehicles, Parts & Accessories)",naive_plus_growth,2027-02-01,6,101.824,90.093,112.716
+"Retail: Total (Excluding Motor Vehicles, Parts & Accessories)",naive_plus_growth,2027-03-01,7,106.691,93.828,118.501
+"Retail: Total (Excluding Motor Vehicles, Parts & Accessories)",naive_plus_growth,2027-04-01,8,99.285,86.911,110.629
+"Retail: Total (Excluding Motor Vehicles, Parts & Accessories)",naive_plus_growth,2027-05-01,9,105.289,91.48,117.955
+"Retail: Total (Excluding Motor Vehicles, Parts & Accessories)",naive_plus_growth,2027-06-01,10,98.769,85.469,111.444
+"Retail: Total (Excluding Motor Vehicles, Parts & Accessories)",naive_plus_growth,2027-07-01,11,102.934,88.792,116.812
+"Retail: Total (Excluding Motor Vehicles, Parts & Accessories)",naive_plus_growth,2027-08-01,12,106.688,91.783,122.088
+"Retail: Total (Excluding Motor Vehicles, Parts & Accessories)",ets,2026-09-01,1,100.053,93.378,107.66
+"Retail: Total (Excluding Motor Vehicles, Parts & Accessories)",ets,2026-10-01,2,104.852,96.563,114.593
+"Retail: Total (Excluding Motor Vehicles, Parts & Accessories)",ets,2026-11-01,3,108.288,99.426,119.024
+"Retail: Total (Excluding Motor Vehicles, Parts & Accessories)",ets,2026-12-01,4,124.874,114.182,138.562
+"Retail: Total (Excluding Motor Vehicles, Parts & Accessories)",ets,2027-01-01,5,115.979,106.29,129.738
+"Retail: Total (Excluding Motor Vehicles, Parts & Accessories)",ets,2027-02-01,6,96.946,88.732,109.11
+"Retail: Total (Excluding Motor Vehicles, Parts & Accessories)",ets,2027-03-01,7,103.928,94.678,117.481
+"Retail: Total (Excluding Motor Vehicles, Parts & Accessories)",ets,2027-04-01,8,96.329,87.566,109.957
+"Retail: Total (Excluding Motor Vehicles, Parts & Accessories)",ets,2027-05-01,9,99.368,90.258,112.89
+"Retail: Total (Excluding Motor Vehicles, Parts & Accessories)",ets,2027-06-01,10,98.058,89.271,112.163
+"Retail: Total (Excluding Motor Vehicles, Parts & Accessories)",ets,2027-07-01,11,103.383,94.572,118.385
+"Retail: Total (Excluding Motor Vehicles, Parts & Accessories)",ets,2027-08-01,12,104.975,96.215,120.162
+"Retail: Total (Excluding Motor Vehicles, Parts & Accessories)",lightgbm,2026-09-01,1,96.631,90.145,103.201
+"Retail: Total (Excluding Motor Vehicles, Parts & Accessories)",lightgbm,2026-10-01,2,104.018,96.428,112.066
+"Retail: Total (Excluding Motor Vehicles, Parts & Accessories)",lightgbm,2026-11-01,3,106.395,98.312,114.431
+"Retail: Total (Excluding Motor Vehicles, Parts & Accessories)",lightgbm,2026-12-01,4,115.189,105.969,124.964
+"Retail: Total (Excluding Motor Vehicles, Parts & Accessories)",lightgbm,2027-01-01,5,117.918,108.378,128.201
+"Retail: Total (Excluding Motor Vehicles, Parts & Accessories)",lightgbm,2027-02-01,6,91.785,84.176,99.655
+"Retail: Total (Excluding Motor Vehicles, Parts & Accessories)",lightgbm,2027-03-01,7,104.487,94.985,113.729
+"Retail: Total (Excluding Motor Vehicles, Parts & Accessories)",lightgbm,2027-04-01,8,97.117,87.839,105.759
+"Retail: Total (Excluding Motor Vehicles, Parts & Accessories)",lightgbm,2027-05-01,9,102.827,92.67,112.28
+"Retail: Total (Excluding Motor Vehicles, Parts & Accessories)",lightgbm,2027-06-01,10,96.434,86.746,105.87
+"Retail: Total (Excluding Motor Vehicles, Parts & Accessories)",lightgbm,2027-07-01,11,100.494,90.5,110.585
+"Retail: Total (Excluding Motor Vehicles, Parts & Accessories)",lightgbm,2027-08-01,12,104.145,93.743,114.651
+Retail: Watches & Jewellery,seasonal_naive,2026-09-01,1,90.971,84.101,103.794
+Retail: Watches & Jewellery,seasonal_naive,2026-10-01,2,116.597,107.837,133.114
+Retail: Watches & Jewellery,seasonal_naive,2026-11-01,3,99.132,91.701,113.111
+Retail: Watches & Jewellery,seasonal_naive,2026-12-01,4,119.73,110.77,136.734
+Retail: Watches & Jewellery,seasonal_naive,2027-01-01,5,116.215,107.511,132.802
+Retail: Watches & Jewellery,seasonal_naive,2027-02-01,6,101.89,94.236,116.44
+Retail: Watches & Jewellery,seasonal_naive,2027-03-01,7,111.362,102.988,127.277
+Retail: Watches & Jewellery,seasonal_naive,2027-04-01,8,99.668,92.197,114.004
+Retail: Watches & Jewellery,seasonal_naive,2027-05-01,9,109.459,101.252,125.249
+Retail: Watches & Jewellery,seasonal_naive,2027-06-01,10,97.72,90.386,111.844
+Retail: Watches & Jewellery,seasonal_naive,2027-07-01,11,103.099,95.375,118.063
+Retail: Watches & Jewellery,seasonal_naive,2027-08-01,12,102.702,95.014,117.712
+Retail: Watches & Jewellery,naive_plus_growth,2026-09-01,1,99.98,90.402,108.726
+Retail: Watches & Jewellery,naive_plus_growth,2026-10-01,2,128.143,115.084,140.009
+Retail: Watches & Jewellery,naive_plus_growth,2026-11-01,3,108.949,97.559,119.418
+Retail: Watches & Jewellery,naive_plus_growth,2026-12-01,4,131.586,117.423,144.622
+Retail: Watches & Jewellery,naive_plus_growth,2027-01-01,5,127.723,113.51,140.771
+Retail: Watches & Jewellery,naive_plus_growth,2027-02-01,6,111.98,99.079,123.958
+Retail: Watches & Jewellery,naive_plus_growth,2027-03-01,7,122.39,107.634,135.937
+Retail: Watches & Jewellery,naive_plus_growth,2027-04-01,8,109.538,95.886,122.053
+Retail: Watches & Jewellery,naive_plus_growth,2027-05-01,9,120.298,104.521,134.77
+Retail: Watches & Jewellery,naive_plus_growth,2027-06-01,10,107.397,92.934,121.178
+Retail: Watches & Jewellery,naive_plus_growth,2027-07-01,11,113.309,97.741,128.585
+Retail: Watches & Jewellery,naive_plus_growth,2027-08-01,12,112.872,97.104,129.166
+Retail: Watches & Jewellery,ets,2026-09-01,1,92.949,86.748,100.015
+Retail: Watches & Jewellery,ets,2026-10-01,2,103.861,95.65,113.51
+Retail: Watches & Jewellery,ets,2026-11-01,3,102.806,94.393,112.998
+Retail: Watches & Jewellery,ets,2026-12-01,4,130.235,119.085,144.511
+Retail: Watches & Jewellery,ets,2027-01-01,5,108.795,99.706,121.701
+Retail: Watches & Jewellery,ets,2027-02-01,6,101.829,93.201,114.606
+Retail: Watches & Jewellery,ets,2027-03-01,7,100.522,91.576,113.631
+Retail: Watches & Jewellery,ets,2027-04-01,8,83.213,75.644,94.986
+Retail: Watches & Jewellery,ets,2027-05-01,9,78.563,71.361,89.254
+Retail: Watches & Jewellery,ets,2027-06-01,10,91.634,83.423,104.815
+Retail: Watches & Jewellery,ets,2027-07-01,11,101.781,93.105,116.55
+Retail: Watches & Jewellery,ets,2027-08-01,12,105.92,97.081,121.243
+Retail: Watches & Jewellery,lightgbm,2026-09-01,1,93.883,87.582,100.267
+Retail: Watches & Jewellery,lightgbm,2026-10-01,2,120.2,111.43,129.5
+Retail: Watches & Jewellery,lightgbm,2026-11-01,3,102.154,94.393,109.869
+Retail: Watches & Jewellery,lightgbm,2026-12-01,4,123.32,113.449,133.784
+Retail: Watches & Jewellery,lightgbm,2027-01-01,5,125.476,115.325,136.418
+Retail: Watches & Jewellery,lightgbm,2027-02-01,6,101.393,92.988,110.087
+Retail: Watches & Jewellery,lightgbm,2027-03-01,7,114.228,103.841,124.332
+Retail: Watches & Jewellery,lightgbm,2027-04-01,8,101.943,92.204,111.014
+Retail: Watches & Jewellery,lightgbm,2027-05-01,9,111.841,100.793,122.122
+Retail: Watches & Jewellery,lightgbm,2027-06-01,10,99.635,89.626,109.384
+Retail: Watches & Jewellery,lightgbm,2027-07-01,11,104.581,94.18,115.082
+Retail: Watches & Jewellery,lightgbm,2027-08-01,12,105.204,94.695,115.816
+Retail: Wearing Apparel & Footwear,seasonal_naive,2026-09-01,1,90.147,83.339,102.854
+Retail: Wearing Apparel & Footwear,seasonal_naive,2026-10-01,2,99.256,91.799,113.317
+Retail: Wearing Apparel & Footwear,seasonal_naive,2026-11-01,3,113.449,104.945,129.447
+Retail: Wearing Apparel & Footwear,seasonal_naive,2026-12-01,4,117.887,109.065,134.629
+Retail: Wearing Apparel & Footwear,seasonal_naive,2027-01-01,5,107.131,99.107,122.422
+Retail: Wearing Apparel & Footwear,seasonal_naive,2027-02-01,6,99.433,91.963,113.633
+Retail: Wearing Apparel & Footwear,seasonal_naive,2027-03-01,7,98.278,90.888,112.323
+Retail: Wearing Apparel & Footwear,seasonal_naive,2027-04-01,8,91.742,84.865,104.938
+Retail: Wearing Apparel & Footwear,seasonal_naive,2027-05-01,9,97.96,90.615,112.091
+Retail: Wearing Apparel & Footwear,seasonal_naive,2027-06-01,10,94.397,87.312,108.041
+Retail: Wearing Apparel & Footwear,seasonal_naive,2027-07-01,11,97.465,90.163,111.611
+Retail: Wearing Apparel & Footwear,seasonal_naive,2027-08-01,12,99.484,92.037,114.024
+Retail: Wearing Apparel & Footwear,naive_plus_growth,2026-09-01,1,90.782,82.085,98.724
+Retail: Wearing Apparel & Footwear,naive_plus_growth,2026-10-01,2,99.955,89.769,109.211
+Retail: Wearing Apparel & Footwear,naive_plus_growth,2026-11-01,3,114.248,102.305,125.227
+Retail: Wearing Apparel & Footwear,naive_plus_growth,2026-12-01,4,118.717,105.939,130.478
+Retail: Wearing Apparel & Footwear,naive_plus_growth,2027-01-01,5,107.886,95.88,118.907
+Retail: Wearing Apparel & Footwear,naive_plus_growth,2027-02-01,6,100.133,88.597,110.845
+Retail: Wearing Apparel & Footwear,naive_plus_growth,2027-03-01,7,98.97,87.038,109.926
+Retail: Wearing Apparel & Footwear,naive_plus_growth,2027-04-01,8,92.388,80.873,102.944
+Retail: Wearing Apparel & Footwear,naive_plus_growth,2027-05-01,9,98.65,85.712,110.518
+Retail: Wearing Apparel & Footwear,naive_plus_growth,2027-06-01,10,95.062,82.26,107.261
+Retail: Wearing Apparel & Footwear,naive_plus_growth,2027-07-01,11,98.152,84.667,111.385
+Retail: Wearing Apparel & Footwear,naive_plus_growth,2027-08-01,12,100.185,86.189,114.647
+Retail: Wearing Apparel & Footwear,ets,2026-09-01,1,92.021,85.882,99.017
+Retail: Wearing Apparel & Footwear,ets,2026-10-01,2,98.635,90.837,107.799
+Retail: Wearing Apparel & Footwear,ets,2026-11-01,3,109.336,100.388,120.175
+Retail: Wearing Apparel & Footwear,ets,2026-12-01,4,138.432,126.579,153.606
+Retail: Wearing Apparel & Footwear,ets,2027-01-01,5,126.866,116.268,141.917
+Retail: Wearing Apparel & Footwear,ets,2027-02-01,6,97.417,89.163,109.64
+Retail: Wearing Apparel & Footwear,ets,2027-03-01,7,95.273,86.794,107.698
+Retail: Wearing Apparel & Footwear,ets,2027-04-01,8,81.664,74.235,93.218
+Retail: Wearing Apparel & Footwear,ets,2027-05-01,9,81.523,74.049,92.617
+Retail: Wearing Apparel & Footwear,ets,2027-06-01,10,92.851,84.531,106.206
+Retail: Wearing Apparel & Footwear,ets,2027-07-01,11,100.784,92.193,115.409
+Retail: Wearing Apparel & Footwear,ets,2027-08-01,12,99.484,91.183,113.876
+Retail: Wearing Apparel & Footwear,lightgbm,2026-09-01,1,89.687,83.668,95.786
+Retail: Wearing Apparel & Footwear,lightgbm,2026-10-01,2,98.741,91.536,106.38
+Retail: Wearing Apparel & Footwear,lightgbm,2026-11-01,3,112.749,104.183,121.264
+Retail: Wearing Apparel & Footwear,lightgbm,2026-12-01,4,116.704,107.362,126.607
+Retail: Wearing Apparel & Footwear,lightgbm,2027-01-01,5,122.775,112.842,133.482
+Retail: Wearing Apparel & Footwear,lightgbm,2027-02-01,6,85.739,78.631,93.09
+Retail: Wearing Apparel & Footwear,lightgbm,2027-03-01,7,97.214,88.374,105.813
+Retail: Wearing Apparel & Footwear,lightgbm,2027-04-01,8,90.537,81.888,98.594
+Retail: Wearing Apparel & Footwear,lightgbm,2027-05-01,9,96.583,87.043,105.462
+Retail: Wearing Apparel & Footwear,lightgbm,2027-06-01,10,93.155,83.797,102.27
+Retail: Wearing Apparel & Footwear,lightgbm,2027-07-01,11,96.177,86.613,105.835
+Retail: Wearing Apparel & Footwear,lightgbm,2027-08-01,12,98.157,88.353,108.058

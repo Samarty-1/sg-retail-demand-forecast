@@ -1,0 +1,5 @@
+,error_excl_covid,error_covid_targets,error_all,median_skill_vs_naive,series_beating_naive,beats_baseline
+seasonal_naive,0.0699,0.4805,0.1286,0.0,,False
+naive_plus_growth,0.0805,0.4987,0.1403,-0.152,3.0,False
+ets,0.0655,0.4358,0.1184,0.0619,14.0,True
+lightgbm,0.0611,0.477,0.1206,0.1308,18.0,True

@@ -1,0 +1,5 @@
+,jan_feb,other_months
+seasonal_naive,0.0967,0.0643
+naive_plus_growth,0.1099,0.0744
+ets,0.0782,0.0628
+lightgbm,0.073,0.0587

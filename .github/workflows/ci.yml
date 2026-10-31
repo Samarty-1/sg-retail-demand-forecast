@@ -1,0 +1,28 @@
+name: ci
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Tests (CNY calendar, models, look-ahead, scoring, ranges)
+        run: pytest
+      - name: Backtest smoke run on the committed data (one year of origins)
+        run: |
+          python - <<'PY'
+          import pandas as pd
+          from forecast.backtest import load_panel, run, summarise
+          bt = run(load_panel(), first_origin=pd.Timestamp("2024-01-01"), last_origin=pd.Timestamp("2024-12-01"))
+          head = summarise(bt)["headline"]
+          print(head)
+          assert len(bt) > 2000 and head["error_excl_covid"].between(0, 0.5).all()
+          PY
